@@ -1,756 +1,732 @@
 Sexo,Dosis,Edad,Cantidad
-Desconocido,Primera,15,
-Desconocido,Segunda,15,
-Hombre,Primera,15,14.0
-Hombre,Segunda,15,0.0
-Intersex (Indeterminado),Primera,15,
-Intersex (Indeterminado),Segunda,15,
-Mujer,Primera,15,8.0
-Mujer,Segunda,15,1.0
-Desconocido,Primera,16,
-Desconocido,Segunda,16,
-Hombre,Primera,16,3208.0
-Hombre,Segunda,16,34.0
-Intersex (Indeterminado),Primera,16,1.0
-Intersex (Indeterminado),Segunda,16,0.0
-Mujer,Primera,16,2979.0
-Mujer,Segunda,16,26.0
-Desconocido,Primera,17,1.0
-Desconocido,Segunda,17,0.0
-Hombre,Primera,17,3594.0
-Hombre,Segunda,17,112.0
-Intersex (Indeterminado),Primera,17,2.0
-Intersex (Indeterminado),Segunda,17,0.0
-Mujer,Primera,17,3390.0
-Mujer,Segunda,17,82.0
-Desconocido,Primera,18,
-Desconocido,Segunda,18,
-Hombre,Primera,18,7967.0
-Hombre,Segunda,18,1670.0
-Intersex (Indeterminado),Primera,18,1.0
-Intersex (Indeterminado),Segunda,18,0.0
-Mujer,Primera,18,7379.0
-Mujer,Segunda,18,1355.0
-Desconocido,Primera,19,
-Desconocido,Segunda,19,
-Hombre,Primera,19,11277.0
-Hombre,Segunda,19,3576.0
-Intersex (Indeterminado),Primera,19,
-Intersex (Indeterminado),Segunda,19,
-Mujer,Primera,19,9641.0
-Mujer,Segunda,19,2215.0
-Desconocido,Primera,20,
-Desconocido,Segunda,20,
-Hombre,Primera,20,12212.0
-Hombre,Segunda,20,3762.0
-Intersex (Indeterminado),Primera,20,4.0
-Intersex (Indeterminado),Segunda,20,0.0
-Mujer,Primera,20,12074.0
-Mujer,Segunda,20,3316.0
-Desconocido,Primera,21,3.0
-Desconocido,Segunda,21,0.0
-Hombre,Primera,21,13276.0
-Hombre,Segunda,21,4329.0
-Intersex (Indeterminado),Primera,21,4.0
-Intersex (Indeterminado),Segunda,21,0.0
-Mujer,Primera,21,15004.0
-Mujer,Segunda,21,5038.0
-Desconocido,Primera,22,2.0
-Desconocido,Segunda,22,1.0
-Hombre,Primera,22,15467.0
-Hombre,Segunda,22,5298.0
-Intersex (Indeterminado),Primera,22,4.0
-Intersex (Indeterminado),Segunda,22,1.0
-Mujer,Primera,22,19762.0
-Mujer,Segunda,22,7950.0
-Desconocido,Primera,23,2.0
-Desconocido,Segunda,23,1.0
-Hombre,Primera,23,17594.0
-Hombre,Segunda,23,6622.0
-Intersex (Indeterminado),Primera,23,1.0
-Intersex (Indeterminado),Segunda,23,0.0
-Mujer,Primera,23,24431.0
-Mujer,Segunda,23,11116.0
-Desconocido,Primera,24,5.0
-Desconocido,Segunda,24,5.0
-Hombre,Primera,24,20026.0
-Hombre,Segunda,24,7913.0
-Intersex (Indeterminado),Primera,24,4.0
-Intersex (Indeterminado),Segunda,24,1.0
-Mujer,Primera,24,29527.0
-Mujer,Segunda,24,14522.0
-Desconocido,Primera,25,3.0
-Desconocido,Segunda,25,1.0
-Hombre,Primera,25,22464.0
-Hombre,Segunda,25,9424.0
-Intersex (Indeterminado),Primera,25,2.0
-Intersex (Indeterminado),Segunda,25,2.0
-Mujer,Primera,25,33112.0
-Mujer,Segunda,25,17307.0
-Desconocido,Primera,26,3.0
-Desconocido,Segunda,26,1.0
-Hombre,Primera,26,24940.0
-Hombre,Segunda,26,10742.0
-Intersex (Indeterminado),Primera,26,7.0
-Intersex (Indeterminado),Segunda,26,0.0
-Mujer,Primera,26,36827.0
-Mujer,Segunda,26,19432.0
-Desconocido,Primera,27,5.0
-Desconocido,Segunda,27,2.0
-Hombre,Primera,27,26751.0
-Hombre,Segunda,27,11752.0
-Intersex (Indeterminado),Primera,27,6.0
-Intersex (Indeterminado),Segunda,27,2.0
-Mujer,Primera,27,38793.0
-Mujer,Segunda,27,20551.0
-Desconocido,Primera,28,4.0
-Desconocido,Segunda,28,2.0
-Hombre,Primera,28,28598.0
-Hombre,Segunda,28,12591.0
-Intersex (Indeterminado),Primera,28,10.0
-Intersex (Indeterminado),Segunda,28,1.0
-Mujer,Primera,28,40705.0
-Mujer,Segunda,28,21354.0
-Desconocido,Primera,29,7.0
-Desconocido,Segunda,29,3.0
-Hombre,Primera,29,30072.0
-Hombre,Segunda,29,12884.0
-Intersex (Indeterminado),Primera,29,2.0
-Intersex (Indeterminado),Segunda,29,0.0
-Mujer,Primera,29,42674.0
-Mujer,Segunda,29,21713.0
-Desconocido,Primera,30,7.0
-Desconocido,Segunda,30,2.0
-Hombre,Primera,30,32552.0
-Hombre,Segunda,30,13704.0
-Intersex (Indeterminado),Primera,30,5.0
-Intersex (Indeterminado),Segunda,30,1.0
-Mujer,Primera,30,44418.0
-Mujer,Segunda,30,22225.0
-Desconocido,Primera,31,10.0
+Desconocido,Primera,18,2.0
+Desconocido,Segunda,18,2.0
+Hombre,Primera,18,22037.0
+Hombre,Segunda,18,16157.0
+Intersex (Indeterminado),Primera,18,15.0
+Intersex (Indeterminado),Segunda,18,4.0
+Mujer,Primera,18,20680.0
+Mujer,Segunda,18,15174.0
+Desconocido,Primera,19,3.0
+Desconocido,Segunda,19,2.0
+Hombre,Primera,19,26071.0
+Hombre,Segunda,19,20160.0
+Intersex (Indeterminado),Primera,19,21.0
+Intersex (Indeterminado),Segunda,19,9.0
+Mujer,Primera,19,24277.0
+Mujer,Segunda,19,18670.0
+Desconocido,Primera,20,3.0
+Desconocido,Segunda,20,2.0
+Hombre,Primera,20,28514.0
+Hombre,Segunda,20,22292.0
+Intersex (Indeterminado),Primera,20,22.0
+Intersex (Indeterminado),Segunda,20,7.0
+Mujer,Primera,20,28681.0
+Mujer,Segunda,20,22484.0
+Desconocido,Primera,21,2.0
+Desconocido,Segunda,21,1.0
+Hombre,Primera,21,30746.0
+Hombre,Segunda,21,24237.0
+Intersex (Indeterminado),Primera,21,35.0
+Intersex (Indeterminado),Segunda,21,15.0
+Mujer,Primera,21,32737.0
+Mujer,Segunda,21,26137.0
+Desconocido,Primera,22,
+Desconocido,Segunda,22,
+Hombre,Primera,22,35167.0
+Hombre,Segunda,22,27238.0
+Intersex (Indeterminado),Primera,22,77.0
+Intersex (Indeterminado),Segunda,22,21.0
+Mujer,Primera,22,39375.0
+Mujer,Segunda,22,31483.0
+Desconocido,Primera,23,5.0
+Desconocido,Segunda,23,3.0
+Hombre,Primera,23,66913.0
+Hombre,Segunda,23,30122.0
+Intersex (Indeterminado),Primera,23,121.0
+Intersex (Indeterminado),Segunda,23,27.0
+Mujer,Primera,23,72457.0
+Mujer,Segunda,23,36753.0
+Desconocido,Primera,24,8.0
+Desconocido,Segunda,24,3.0
+Hombre,Primera,24,77854.0
+Hombre,Segunda,24,33156.0
+Intersex (Indeterminado),Primera,24,143.0
+Intersex (Indeterminado),Segunda,24,27.0
+Mujer,Primera,24,83146.0
+Mujer,Segunda,24,41618.0
+Desconocido,Primera,25,13.0
+Desconocido,Segunda,25,6.0
+Hombre,Primera,25,83522.0
+Hombre,Segunda,25,35966.0
+Intersex (Indeterminado),Primera,25,198.0
+Intersex (Indeterminado),Segunda,25,32.0
+Mujer,Primera,25,88576.0
+Mujer,Segunda,25,44901.0
+Desconocido,Primera,26,14.0
+Desconocido,Segunda,26,3.0
+Hombre,Primera,26,97192.0
+Hombre,Segunda,26,39200.0
+Intersex (Indeterminado),Primera,26,246.0
+Intersex (Indeterminado),Segunda,26,47.0
+Mujer,Primera,26,102877.0
+Mujer,Segunda,26,48571.0
+Desconocido,Primera,27,16.0
+Desconocido,Segunda,27,6.0
+Hombre,Primera,27,100245.0
+Hombre,Segunda,27,41263.0
+Intersex (Indeterminado),Primera,27,370.0
+Intersex (Indeterminado),Segunda,27,53.0
+Mujer,Primera,27,104966.0
+Mujer,Segunda,27,50447.0
+Desconocido,Primera,28,18.0
+Desconocido,Segunda,28,5.0
+Hombre,Primera,28,103828.0
+Hombre,Segunda,28,43579.0
+Intersex (Indeterminado),Primera,28,462.0
+Intersex (Indeterminado),Segunda,28,96.0
+Mujer,Primera,28,108595.0
+Mujer,Segunda,28,52529.0
+Desconocido,Primera,29,28.0
+Desconocido,Segunda,29,7.0
+Hombre,Primera,29,107101.0
+Hombre,Segunda,29,45941.0
+Intersex (Indeterminado),Primera,29,442.0
+Intersex (Indeterminado),Segunda,29,72.0
+Mujer,Primera,29,112124.0
+Mujer,Segunda,29,55176.0
+Desconocido,Primera,30,27.0
+Desconocido,Segunda,30,4.0
+Hombre,Primera,30,113785.0
+Hombre,Segunda,30,49206.0
+Intersex (Indeterminado),Primera,30,429.0
+Intersex (Indeterminado),Segunda,30,73.0
+Mujer,Primera,30,117059.0
+Mujer,Segunda,30,57184.0
+Desconocido,Primera,31,16.0
 Desconocido,Segunda,31,5.0
-Hombre,Primera,31,33781.0
-Hombre,Segunda,31,14193.0
-Intersex (Indeterminado),Primera,31,9.0
-Intersex (Indeterminado),Segunda,31,2.0
-Mujer,Primera,31,45168.0
-Mujer,Segunda,31,22158.0
-Desconocido,Primera,32,11.0
-Desconocido,Segunda,32,4.0
-Hombre,Primera,32,33757.0
-Hombre,Segunda,32,14065.0
-Intersex (Indeterminado),Primera,32,7.0
-Intersex (Indeterminado),Segunda,32,1.0
-Mujer,Primera,32,43974.0
-Mujer,Segunda,32,21354.0
-Desconocido,Primera,33,7.0
-Desconocido,Segunda,33,4.0
-Hombre,Primera,33,32467.0
-Hombre,Segunda,33,13283.0
-Intersex (Indeterminado),Primera,33,4.0
-Intersex (Indeterminado),Segunda,33,1.0
-Mujer,Primera,33,42405.0
-Mujer,Segunda,33,20016.0
-Desconocido,Primera,34,6.0
-Desconocido,Segunda,34,2.0
-Hombre,Primera,34,32002.0
-Hombre,Segunda,34,12956.0
-Intersex (Indeterminado),Primera,34,5.0
-Intersex (Indeterminado),Segunda,34,1.0
-Mujer,Primera,34,41426.0
-Mujer,Segunda,34,19586.0
-Desconocido,Primera,35,3.0
+Hombre,Primera,31,115848.0
+Hombre,Segunda,31,50654.0
+Intersex (Indeterminado),Primera,31,471.0
+Intersex (Indeterminado),Segunda,31,81.0
+Mujer,Primera,31,119481.0
+Mujer,Segunda,31,58385.0
+Desconocido,Primera,32,16.0
+Desconocido,Segunda,32,6.0
+Hombre,Primera,32,113900.0
+Hombre,Segunda,32,50479.0
+Intersex (Indeterminado),Primera,32,499.0
+Intersex (Indeterminado),Segunda,32,81.0
+Mujer,Primera,32,117240.0
+Mujer,Segunda,32,57087.0
+Desconocido,Primera,33,20.0
+Desconocido,Segunda,33,3.0
+Hombre,Primera,33,109691.0
+Hombre,Segunda,33,48957.0
+Intersex (Indeterminado),Primera,33,455.0
+Intersex (Indeterminado),Segunda,33,94.0
+Mujer,Primera,33,113030.0
+Mujer,Segunda,33,54980.0
+Desconocido,Primera,34,24.0
+Desconocido,Segunda,34,6.0
+Hombre,Primera,34,106186.0
+Hombre,Segunda,34,47919.0
+Intersex (Indeterminado),Primera,34,410.0
+Intersex (Indeterminado),Segunda,34,58.0
+Mujer,Primera,34,109708.0
+Mujer,Segunda,34,53992.0
+Desconocido,Primera,35,12.0
 Desconocido,Segunda,35,2.0
-Hombre,Primera,35,31189.0
-Hombre,Segunda,35,12333.0
-Intersex (Indeterminado),Primera,35,7.0
-Intersex (Indeterminado),Segunda,35,3.0
-Mujer,Primera,35,39816.0
-Mujer,Segunda,35,18469.0
-Desconocido,Primera,36,2.0
-Desconocido,Segunda,36,1.0
-Hombre,Primera,36,30638.0
-Hombre,Segunda,36,12108.0
-Intersex (Indeterminado),Primera,36,4.0
-Intersex (Indeterminado),Segunda,36,1.0
-Mujer,Primera,36,39330.0
-Mujer,Segunda,36,18661.0
-Desconocido,Primera,37,7.0
-Desconocido,Segunda,37,6.0
-Hombre,Primera,37,30298.0
-Hombre,Segunda,37,11675.0
-Intersex (Indeterminado),Primera,37,5.0
-Intersex (Indeterminado),Segunda,37,0.0
-Mujer,Primera,37,38745.0
-Mujer,Segunda,37,17873.0
-Desconocido,Primera,38,9.0
+Hombre,Primera,35,103690.0
+Hombre,Segunda,35,46834.0
+Intersex (Indeterminado),Primera,35,358.0
+Intersex (Indeterminado),Segunda,35,63.0
+Mujer,Primera,35,107426.0
+Mujer,Segunda,35,51987.0
+Desconocido,Primera,36,13.0
+Desconocido,Segunda,36,3.0
+Hombre,Primera,36,101515.0
+Hombre,Segunda,36,46109.0
+Intersex (Indeterminado),Primera,36,423.0
+Intersex (Indeterminado),Segunda,36,68.0
+Mujer,Primera,36,105045.0
+Mujer,Segunda,36,51386.0
+Desconocido,Primera,37,18.0
+Desconocido,Segunda,37,9.0
+Hombre,Primera,37,99671.0
+Hombre,Segunda,37,45650.0
+Intersex (Indeterminado),Primera,37,401.0
+Intersex (Indeterminado),Segunda,37,74.0
+Mujer,Primera,37,104263.0
+Mujer,Segunda,37,51003.0
+Desconocido,Primera,38,12.0
 Desconocido,Segunda,38,5.0
-Hombre,Primera,38,32073.0
-Hombre,Segunda,38,12038.0
-Intersex (Indeterminado),Primera,38,6.0
-Intersex (Indeterminado),Segunda,38,1.0
-Mujer,Primera,38,40792.0
-Mujer,Segunda,38,18613.0
-Desconocido,Primera,39,5.0
-Desconocido,Segunda,39,2.0
-Hombre,Primera,39,32431.0
-Hombre,Segunda,39,11947.0
-Intersex (Indeterminado),Primera,39,2.0
-Intersex (Indeterminado),Segunda,39,1.0
-Mujer,Primera,39,41269.0
-Mujer,Segunda,39,18490.0
-Desconocido,Primera,40,8.0
-Desconocido,Segunda,40,2.0
-Hombre,Primera,40,31570.0
-Hombre,Segunda,40,11965.0
-Intersex (Indeterminado),Primera,40,6.0
-Intersex (Indeterminado),Segunda,40,2.0
-Mujer,Primera,40,39760.0
-Mujer,Segunda,40,19374.0
-Desconocido,Primera,41,11.0
-Desconocido,Segunda,41,5.0
-Hombre,Primera,41,30795.0
-Hombre,Segunda,41,11106.0
-Intersex (Indeterminado),Primera,41,6.0
-Intersex (Indeterminado),Segunda,41,3.0
-Mujer,Primera,41,39320.0
-Mujer,Segunda,41,18396.0
-Desconocido,Primera,42,2.0
-Desconocido,Segunda,42,1.0
-Hombre,Primera,42,29929.0
-Hombre,Segunda,42,10461.0
-Intersex (Indeterminado),Primera,42,3.0
-Intersex (Indeterminado),Segunda,42,0.0
-Mujer,Primera,42,38639.0
-Mujer,Segunda,42,17439.0
-Desconocido,Primera,43,8.0
-Desconocido,Segunda,43,3.0
-Hombre,Primera,43,29993.0
-Hombre,Segunda,43,10162.0
-Intersex (Indeterminado),Primera,43,4.0
-Intersex (Indeterminado),Segunda,43,0.0
-Mujer,Primera,43,38239.0
-Mujer,Segunda,43,16941.0
-Desconocido,Primera,44,5.0
-Desconocido,Segunda,44,2.0
-Hombre,Primera,44,30830.0
-Hombre,Segunda,44,10000.0
-Intersex (Indeterminado),Primera,44,5.0
-Intersex (Indeterminado),Segunda,44,2.0
-Mujer,Primera,44,39768.0
-Mujer,Segunda,44,17199.0
-Desconocido,Primera,45,5.0
-Desconocido,Segunda,45,1.0
-Hombre,Primera,45,32752.0
-Hombre,Segunda,45,10320.0
-Intersex (Indeterminado),Primera,45,5.0
-Intersex (Indeterminado),Segunda,45,0.0
-Mujer,Primera,45,42412.0
-Mujer,Segunda,45,17290.0
-Desconocido,Primera,46,3.0
-Desconocido,Segunda,46,1.0
-Hombre,Primera,46,33194.0
-Hombre,Segunda,46,10006.0
-Intersex (Indeterminado),Primera,46,6.0
-Intersex (Indeterminado),Segunda,46,2.0
-Mujer,Primera,46,44528.0
-Mujer,Segunda,46,17563.0
-Desconocido,Primera,47,6.0
-Desconocido,Segunda,47,3.0
-Hombre,Primera,47,34221.0
-Hombre,Segunda,47,10117.0
-Intersex (Indeterminado),Primera,47,2.0
-Intersex (Indeterminado),Segunda,47,0.0
-Mujer,Primera,47,45247.0
-Mujer,Segunda,47,17189.0
-Desconocido,Primera,48,5.0
-Desconocido,Segunda,48,1.0
-Hombre,Primera,48,34736.0
-Hombre,Segunda,48,9777.0
-Intersex (Indeterminado),Primera,48,8.0
-Intersex (Indeterminado),Segunda,48,2.0
-Mujer,Primera,48,46472.0
-Mujer,Segunda,48,17014.0
-Desconocido,Primera,49,10.0
-Desconocido,Segunda,49,5.0
-Hombre,Primera,49,34786.0
-Hombre,Segunda,49,9211.0
-Intersex (Indeterminado),Primera,49,6.0
-Intersex (Indeterminado),Segunda,49,3.0
-Mujer,Primera,49,47401.0
-Mujer,Segunda,49,16463.0
-Desconocido,Primera,50,4.0
-Desconocido,Segunda,50,1.0
-Hombre,Primera,50,35332.0
-Hombre,Segunda,50,9115.0
-Intersex (Indeterminado),Primera,50,5.0
-Intersex (Indeterminado),Segunda,50,1.0
-Mujer,Primera,50,47543.0
-Mujer,Segunda,50,16621.0
-Desconocido,Primera,51,9.0
-Desconocido,Segunda,51,1.0
-Hombre,Primera,51,35280.0
-Hombre,Segunda,51,8717.0
-Intersex (Indeterminado),Primera,51,5.0
-Intersex (Indeterminado),Segunda,51,0.0
-Mujer,Primera,51,48105.0
-Mujer,Segunda,51,15850.0
-Desconocido,Primera,52,6.0
-Desconocido,Segunda,52,4.0
-Hombre,Primera,52,37115.0
-Hombre,Segunda,52,8903.0
-Intersex (Indeterminado),Primera,52,7.0
-Intersex (Indeterminado),Segunda,52,1.0
-Mujer,Primera,52,51002.0
-Mujer,Segunda,52,16234.0
-Desconocido,Primera,53,12.0
-Desconocido,Segunda,53,4.0
-Hombre,Primera,53,39126.0
-Hombre,Segunda,53,8843.0
-Intersex (Indeterminado),Primera,53,3.0
-Intersex (Indeterminado),Segunda,53,0.0
-Mujer,Primera,53,53625.0
-Mujer,Segunda,53,16119.0
-Desconocido,Primera,54,4.0
-Desconocido,Segunda,54,2.0
-Hombre,Primera,54,41005.0
-Hombre,Segunda,54,9063.0
-Intersex (Indeterminado),Primera,54,6.0
-Intersex (Indeterminado),Segunda,54,0.0
-Mujer,Primera,54,56590.0
-Mujer,Segunda,54,16250.0
-Desconocido,Primera,55,10.0
-Desconocido,Segunda,55,3.0
-Hombre,Primera,55,43234.0
-Hombre,Segunda,55,9062.0
-Intersex (Indeterminado),Primera,55,9.0
-Intersex (Indeterminado),Segunda,55,1.0
-Mujer,Primera,55,59848.0
-Mujer,Segunda,55,16516.0
-Desconocido,Primera,56,6.0
-Desconocido,Segunda,56,2.0
-Hombre,Primera,56,45434.0
-Hombre,Segunda,56,9338.0
-Intersex (Indeterminado),Primera,56,7.0
-Intersex (Indeterminado),Segunda,56,1.0
-Mujer,Primera,56,61662.0
-Mujer,Segunda,56,16241.0
-Desconocido,Primera,57,10.0
-Desconocido,Segunda,57,3.0
-Hombre,Primera,57,47011.0
-Hombre,Segunda,57,9238.0
-Intersex (Indeterminado),Primera,57,6.0
-Intersex (Indeterminado),Segunda,57,0.0
-Mujer,Primera,57,63467.0
-Mujer,Segunda,57,15760.0
+Hombre,Primera,38,103948.0
+Hombre,Segunda,38,48173.0
+Intersex (Indeterminado),Primera,38,395.0
+Intersex (Indeterminado),Segunda,38,71.0
+Mujer,Primera,38,109242.0
+Mujer,Segunda,38,53686.0
+Desconocido,Primera,39,22.0
+Desconocido,Segunda,39,8.0
+Hombre,Primera,39,106425.0
+Hombre,Segunda,39,49133.0
+Intersex (Indeterminado),Primera,39,407.0
+Intersex (Indeterminado),Segunda,39,73.0
+Mujer,Primera,39,111610.0
+Mujer,Segunda,39,55247.0
+Desconocido,Primera,40,22.0
+Desconocido,Segunda,40,9.0
+Hombre,Primera,40,101366.0
+Hombre,Segunda,40,60223.0
+Intersex (Indeterminado),Primera,40,394.0
+Intersex (Indeterminado),Segunda,40,116.0
+Mujer,Primera,40,106248.0
+Mujer,Segunda,40,68987.0
+Desconocido,Primera,41,14.0
+Desconocido,Segunda,41,6.0
+Hombre,Primera,41,98801.0
+Hombre,Segunda,41,62602.0
+Intersex (Indeterminado),Primera,41,381.0
+Intersex (Indeterminado),Segunda,41,127.0
+Mujer,Primera,41,104634.0
+Mujer,Segunda,41,74238.0
+Desconocido,Primera,42,10.0
+Desconocido,Segunda,42,3.0
+Hombre,Primera,42,94837.0
+Hombre,Segunda,42,61550.0
+Intersex (Indeterminado),Primera,42,386.0
+Intersex (Indeterminado),Segunda,42,140.0
+Mujer,Primera,42,101593.0
+Mujer,Segunda,42,75420.0
+Desconocido,Primera,43,10.0
+Desconocido,Segunda,43,5.0
+Hombre,Primera,43,93454.0
+Hombre,Segunda,43,59679.0
+Intersex (Indeterminado),Primera,43,371.0
+Intersex (Indeterminado),Segunda,43,162.0
+Mujer,Primera,43,99733.0
+Mujer,Segunda,43,76039.0
+Desconocido,Primera,44,8.0
+Desconocido,Segunda,44,5.0
+Hombre,Primera,44,94023.0
+Hombre,Segunda,44,60293.0
+Intersex (Indeterminado),Primera,44,383.0
+Intersex (Indeterminado),Segunda,44,175.0
+Mujer,Primera,44,101237.0
+Mujer,Segunda,44,79407.0
+Desconocido,Primera,45,13.0
+Desconocido,Segunda,45,9.0
+Hombre,Primera,45,99124.0
+Hombre,Segunda,45,69387.0
+Intersex (Indeterminado),Primera,45,353.0
+Intersex (Indeterminado),Segunda,45,166.0
+Mujer,Primera,45,106209.0
+Mujer,Segunda,45,87488.0
+Desconocido,Primera,46,7.0
+Desconocido,Segunda,46,4.0
+Hombre,Primera,46,100711.0
+Hombre,Segunda,46,75900.0
+Intersex (Indeterminado),Primera,46,430.0
+Intersex (Indeterminado),Segunda,46,241.0
+Mujer,Primera,46,109729.0
+Mujer,Segunda,46,92599.0
+Desconocido,Primera,47,15.0
+Desconocido,Segunda,47,9.0
+Hombre,Primera,47,102603.0
+Hombre,Segunda,47,81955.0
+Intersex (Indeterminado),Primera,47,407.0
+Intersex (Indeterminado),Segunda,47,246.0
+Mujer,Primera,47,110369.0
+Mujer,Segunda,47,95344.0
+Desconocido,Primera,48,9.0
+Desconocido,Segunda,48,6.0
+Hombre,Primera,48,103158.0
+Hombre,Segunda,48,86744.0
+Intersex (Indeterminado),Primera,48,394.0
+Intersex (Indeterminado),Segunda,48,236.0
+Mujer,Primera,48,111516.0
+Mujer,Segunda,48,99169.0
+Desconocido,Primera,49,9.0
+Desconocido,Segunda,49,8.0
+Hombre,Primera,49,101048.0
+Hombre,Segunda,49,86037.0
+Intersex (Indeterminado),Primera,49,390.0
+Intersex (Indeterminado),Segunda,49,245.0
+Mujer,Primera,49,110308.0
+Mujer,Segunda,49,99013.0
+Desconocido,Primera,50,14.0
+Desconocido,Segunda,50,11.0
+Hombre,Primera,50,99240.0
+Hombre,Segunda,50,86018.0
+Intersex (Indeterminado),Primera,50,350.0
+Intersex (Indeterminado),Segunda,50,228.0
+Mujer,Primera,50,107338.0
+Mujer,Segunda,50,97374.0
+Desconocido,Primera,51,12.0
+Desconocido,Segunda,51,9.0
+Hombre,Primera,51,95831.0
+Hombre,Segunda,51,83744.0
+Intersex (Indeterminado),Primera,51,339.0
+Intersex (Indeterminado),Segunda,51,204.0
+Mujer,Primera,51,104340.0
+Mujer,Segunda,51,95004.0
+Desconocido,Primera,52,11.0
+Desconocido,Segunda,52,10.0
+Hombre,Primera,52,98020.0
+Hombre,Segunda,52,86182.0
+Intersex (Indeterminado),Primera,52,298.0
+Intersex (Indeterminado),Segunda,52,180.0
+Mujer,Primera,52,107869.0
+Mujer,Segunda,52,99023.0
+Desconocido,Primera,53,9.0
+Desconocido,Segunda,53,6.0
+Hombre,Primera,53,100341.0
+Hombre,Segunda,53,88795.0
+Intersex (Indeterminado),Primera,53,290.0
+Intersex (Indeterminado),Segunda,53,165.0
+Mujer,Primera,53,109798.0
+Mujer,Segunda,53,101092.0
+Desconocido,Primera,54,7.0
+Desconocido,Segunda,54,7.0
+Hombre,Primera,54,100685.0
+Hombre,Segunda,54,89853.0
+Intersex (Indeterminado),Primera,54,244.0
+Intersex (Indeterminado),Segunda,54,136.0
+Mujer,Primera,54,111193.0
+Mujer,Segunda,54,102873.0
+Desconocido,Primera,55,11.0
+Desconocido,Segunda,55,10.0
+Hombre,Primera,55,101408.0
+Hombre,Segunda,55,91160.0
+Intersex (Indeterminado),Primera,55,233.0
+Intersex (Indeterminado),Segunda,55,128.0
+Mujer,Primera,55,112488.0
+Mujer,Segunda,55,104460.0
+Desconocido,Primera,56,3.0
+Desconocido,Segunda,56,3.0
+Hombre,Primera,56,101422.0
+Hombre,Segunda,56,91701.0
+Intersex (Indeterminado),Primera,56,264.0
+Intersex (Indeterminado),Segunda,56,147.0
+Mujer,Primera,56,112618.0
+Mujer,Segunda,56,105086.0
+Desconocido,Primera,57,15.0
+Desconocido,Segunda,57,14.0
+Hombre,Primera,57,100489.0
+Hombre,Segunda,57,91544.0
+Intersex (Indeterminado),Primera,57,220.0
+Intersex (Indeterminado),Segunda,57,123.0
+Mujer,Primera,57,111507.0
+Mujer,Segunda,57,104540.0
 Desconocido,Primera,58,8.0
-Desconocido,Segunda,58,2.0
-Hombre,Primera,58,49613.0
-Hombre,Segunda,58,9510.0
-Intersex (Indeterminado),Primera,58,1.0
-Intersex (Indeterminado),Segunda,58,0.0
-Mujer,Primera,58,66287.0
-Mujer,Segunda,58,15555.0
-Desconocido,Primera,59,7.0
-Desconocido,Segunda,59,2.0
-Hombre,Primera,59,50787.0
-Hombre,Segunda,59,9607.0
-Intersex (Indeterminado),Primera,59,8.0
-Intersex (Indeterminado),Segunda,59,1.0
-Mujer,Primera,59,66812.0
-Mujer,Segunda,59,15161.0
-Desconocido,Primera,60,9.0
-Desconocido,Segunda,60,2.0
-Hombre,Primera,60,77112.0
-Hombre,Segunda,60,16133.0
-Intersex (Indeterminado),Primera,60,14.0
-Intersex (Indeterminado),Segunda,60,4.0
-Mujer,Primera,60,92773.0
-Mujer,Segunda,60,23612.0
-Desconocido,Primera,61,10.0
-Desconocido,Segunda,61,4.0
-Hombre,Primera,61,73799.0
-Hombre,Segunda,61,16385.0
-Intersex (Indeterminado),Primera,61,13.0
-Intersex (Indeterminado),Segunda,61,1.0
-Mujer,Primera,61,88141.0
-Mujer,Segunda,61,23337.0
-Desconocido,Primera,62,10.0
-Desconocido,Segunda,62,3.0
-Hombre,Primera,62,73083.0
-Hombre,Segunda,62,17222.0
-Intersex (Indeterminado),Primera,62,7.0
-Intersex (Indeterminado),Segunda,62,1.0
-Mujer,Primera,62,86789.0
-Mujer,Segunda,62,23744.0
+Desconocido,Segunda,58,7.0
+Hombre,Primera,58,100704.0
+Hombre,Segunda,58,91964.0
+Intersex (Indeterminado),Primera,58,175.0
+Intersex (Indeterminado),Segunda,58,101.0
+Mujer,Primera,58,111937.0
+Mujer,Segunda,58,105177.0
+Desconocido,Primera,59,13.0
+Desconocido,Segunda,59,9.0
+Hombre,Primera,59,95962.0
+Hombre,Segunda,59,88347.0
+Intersex (Indeterminado),Primera,59,161.0
+Intersex (Indeterminado),Segunda,59,81.0
+Mujer,Primera,59,107557.0
+Mujer,Segunda,59,101465.0
+Desconocido,Primera,60,8.0
+Desconocido,Segunda,60,8.0
+Hombre,Primera,60,95204.0
+Hombre,Segunda,60,88630.0
+Intersex (Indeterminado),Primera,60,132.0
+Intersex (Indeterminado),Segunda,60,68.0
+Mujer,Primera,60,107034.0
+Mujer,Segunda,60,101704.0
+Desconocido,Primera,61,7.0
+Desconocido,Segunda,61,6.0
+Hombre,Primera,61,87998.0
+Hombre,Segunda,61,82097.0
+Intersex (Indeterminado),Primera,61,86.0
+Intersex (Indeterminado),Segunda,61,41.0
+Mujer,Primera,61,99401.0
+Mujer,Segunda,61,94775.0
+Desconocido,Primera,62,12.0
+Desconocido,Segunda,62,12.0
+Hombre,Primera,62,85554.0
+Hombre,Segunda,62,80261.0
+Intersex (Indeterminado),Primera,62,87.0
+Intersex (Indeterminado),Segunda,62,35.0
+Mujer,Primera,62,96691.0
+Mujer,Segunda,62,92439.0
 Desconocido,Primera,63,9.0
-Desconocido,Segunda,63,4.0
-Hombre,Primera,63,73369.0
-Hombre,Segunda,63,18724.0
-Intersex (Indeterminado),Primera,63,10.0
-Intersex (Indeterminado),Segunda,63,4.0
-Mujer,Primera,63,85942.0
-Mujer,Segunda,63,25290.0
-Desconocido,Primera,64,5.0
-Desconocido,Segunda,64,1.0
-Hombre,Primera,64,70207.0
-Hombre,Segunda,64,21172.0
-Intersex (Indeterminado),Primera,64,10.0
-Intersex (Indeterminado),Segunda,64,3.0
-Mujer,Primera,64,82584.0
-Mujer,Segunda,64,27586.0
-Desconocido,Primera,65,12.0
-Desconocido,Segunda,65,10.0
-Hombre,Primera,65,68916.0
-Hombre,Segunda,65,52215.0
-Intersex (Indeterminado),Primera,65,5.0
-Intersex (Indeterminado),Segunda,65,3.0
-Mujer,Primera,65,81047.0
-Mujer,Segunda,65,64254.0
-Desconocido,Primera,66,7.0
-Desconocido,Segunda,66,6.0
-Hombre,Primera,66,63763.0
-Hombre,Segunda,66,50927.0
-Intersex (Indeterminado),Primera,66,2.0
-Intersex (Indeterminado),Segunda,66,1.0
-Mujer,Primera,66,75283.0
-Mujer,Segunda,66,61759.0
-Desconocido,Primera,67,9.0
-Desconocido,Segunda,67,9.0
-Hombre,Primera,67,63784.0
-Hombre,Segunda,67,52296.0
-Intersex (Indeterminado),Primera,67,5.0
-Intersex (Indeterminado),Segunda,67,4.0
-Mujer,Primera,67,75118.0
-Mujer,Segunda,67,63050.0
+Desconocido,Segunda,63,7.0
+Hombre,Primera,63,84077.0
+Hombre,Segunda,63,79462.0
+Intersex (Indeterminado),Primera,63,98.0
+Intersex (Indeterminado),Segunda,63,54.0
+Mujer,Primera,63,94604.0
+Mujer,Segunda,63,90843.0
+Desconocido,Primera,64,3.0
+Desconocido,Segunda,64,2.0
+Hombre,Primera,64,79787.0
+Hombre,Segunda,64,75503.0
+Intersex (Indeterminado),Primera,64,64.0
+Intersex (Indeterminado),Segunda,64,33.0
+Mujer,Primera,64,90489.0
+Mujer,Segunda,64,86987.0
+Desconocido,Primera,65,8.0
+Desconocido,Segunda,65,6.0
+Hombre,Primera,65,76154.0
+Hombre,Segunda,65,72588.0
+Intersex (Indeterminado),Primera,65,75.0
+Intersex (Indeterminado),Segunda,65,41.0
+Mujer,Primera,65,87322.0
+Mujer,Segunda,65,84219.0
+Desconocido,Primera,66,2.0
+Desconocido,Segunda,66,2.0
+Hombre,Primera,66,69396.0
+Hombre,Segunda,66,66500.0
+Intersex (Indeterminado),Primera,66,36.0
+Intersex (Indeterminado),Segunda,66,16.0
+Mujer,Primera,66,80359.0
+Mujer,Segunda,66,77819.0
+Desconocido,Primera,67,11.0
+Desconocido,Segunda,67,10.0
+Hombre,Primera,67,68804.0
+Hombre,Segunda,67,66144.0
+Intersex (Indeterminado),Primera,67,34.0
+Intersex (Indeterminado),Segunda,67,14.0
+Mujer,Primera,67,79892.0
+Mujer,Segunda,67,77502.0
 Desconocido,Primera,68,7.0
-Desconocido,Segunda,68,6.0
-Hombre,Primera,68,58467.0
-Hombre,Segunda,68,48757.0
-Intersex (Indeterminado),Primera,68,5.0
-Intersex (Indeterminado),Segunda,68,5.0
-Mujer,Primera,68,69347.0
-Mujer,Segunda,68,58733.0
-Desconocido,Primera,69,7.0
-Desconocido,Segunda,69,5.0
-Hombre,Primera,69,54669.0
-Hombre,Segunda,69,46195.0
-Intersex (Indeterminado),Primera,69,6.0
-Intersex (Indeterminado),Segunda,69,3.0
-Mujer,Primera,69,64731.0
-Mujer,Segunda,69,55657.0
-Desconocido,Primera,70,9.0
+Desconocido,Segunda,68,7.0
+Hombre,Primera,68,62946.0
+Hombre,Segunda,68,60557.0
+Intersex (Indeterminado),Primera,68,37.0
+Intersex (Indeterminado),Segunda,68,18.0
+Mujer,Primera,68,73504.0
+Mujer,Segunda,68,71213.0
+Desconocido,Primera,69,9.0
+Desconocido,Segunda,69,9.0
+Hombre,Primera,69,58534.0
+Hombre,Segunda,69,56443.0
+Intersex (Indeterminado),Primera,69,26.0
+Intersex (Indeterminado),Segunda,69,11.0
+Mujer,Primera,69,68448.0
+Mujer,Segunda,69,66496.0
+Desconocido,Primera,70,8.0
 Desconocido,Segunda,70,8.0
-Hombre,Primera,70,51751.0
-Hombre,Segunda,70,44924.0
-Intersex (Indeterminado),Primera,70,1.0
-Intersex (Indeterminado),Segunda,70,1.0
-Mujer,Primera,70,61622.0
-Mujer,Segunda,70,53833.0
-Desconocido,Primera,71,8.0
-Desconocido,Segunda,71,7.0
-Hombre,Primera,71,49665.0
-Hombre,Segunda,71,43822.0
-Intersex (Indeterminado),Primera,71,1.0
-Intersex (Indeterminado),Segunda,71,0.0
-Mujer,Primera,71,59790.0
-Mujer,Segunda,71,53139.0
+Hombre,Primera,70,55046.0
+Hombre,Segunda,70,53237.0
+Intersex (Indeterminado),Primera,70,20.0
+Intersex (Indeterminado),Segunda,70,14.0
+Mujer,Primera,70,65065.0
+Mujer,Segunda,70,63174.0
+Desconocido,Primera,71,9.0
+Desconocido,Segunda,71,9.0
+Hombre,Primera,71,52670.0
+Hombre,Segunda,71,50906.0
+Intersex (Indeterminado),Primera,71,16.0
+Intersex (Indeterminado),Segunda,71,11.0
+Mujer,Primera,71,62858.0
+Mujer,Segunda,71,61158.0
 Desconocido,Primera,72,5.0
-Desconocido,Segunda,72,4.0
-Hombre,Primera,72,47546.0
-Hombre,Segunda,72,42278.0
-Intersex (Indeterminado),Primera,72,3.0
-Intersex (Indeterminado),Segunda,72,2.0
-Mujer,Primera,72,58029.0
-Mujer,Segunda,72,51666.0
-Desconocido,Primera,73,5.0
-Desconocido,Segunda,73,5.0
-Hombre,Primera,73,44839.0
-Hombre,Segunda,73,40023.0
-Intersex (Indeterminado),Primera,73,2.0
-Intersex (Indeterminado),Segunda,73,2.0
-Mujer,Primera,73,55109.0
-Mujer,Segunda,73,49204.0
-Desconocido,Primera,74,6.0
-Desconocido,Segunda,74,6.0
-Hombre,Primera,74,41829.0
-Hombre,Segunda,74,37379.0
-Intersex (Indeterminado),Primera,74,4.0
+Desconocido,Segunda,72,5.0
+Hombre,Primera,72,50206.0
+Hombre,Segunda,72,48686.0
+Intersex (Indeterminado),Primera,72,10.0
+Intersex (Indeterminado),Segunda,72,5.0
+Mujer,Primera,72,60795.0
+Mujer,Segunda,72,59236.0
+Desconocido,Primera,73,4.0
+Desconocido,Segunda,73,4.0
+Hombre,Primera,73,47211.0
+Hombre,Segunda,73,45745.0
+Intersex (Indeterminado),Primera,73,10.0
+Intersex (Indeterminado),Segunda,73,8.0
+Mujer,Primera,73,57876.0
+Mujer,Segunda,73,56370.0
+Desconocido,Primera,74,3.0
+Desconocido,Segunda,74,3.0
+Hombre,Primera,74,43991.0
+Hombre,Segunda,74,42693.0
+Intersex (Indeterminado),Primera,74,7.0
 Intersex (Indeterminado),Segunda,74,4.0
-Mujer,Primera,74,52362.0
-Mujer,Segunda,74,46754.0
-Desconocido,Primera,75,6.0
-Desconocido,Segunda,75,5.0
-Hombre,Primera,75,39337.0
-Hombre,Segunda,75,35295.0
-Intersex (Indeterminado),Primera,75,1.0
-Intersex (Indeterminado),Segunda,75,1.0
-Mujer,Primera,75,49583.0
-Mujer,Segunda,75,44351.0
+Mujer,Primera,74,54852.0
+Mujer,Segunda,74,53463.0
+Desconocido,Primera,75,3.0
+Desconocido,Segunda,75,3.0
+Hombre,Primera,75,41269.0
+Hombre,Segunda,75,40041.0
+Intersex (Indeterminado),Primera,75,15.0
+Intersex (Indeterminado),Segunda,75,8.0
+Mujer,Primera,75,51924.0
+Mujer,Segunda,75,50614.0
 Desconocido,Primera,76,4.0
 Desconocido,Segunda,76,4.0
-Hombre,Primera,76,36688.0
-Hombre,Segunda,76,32863.0
-Intersex (Indeterminado),Primera,76,3.0
-Intersex (Indeterminado),Segunda,76,2.0
-Mujer,Primera,76,47198.0
-Mujer,Segunda,76,42228.0
-Desconocido,Primera,77,4.0
-Desconocido,Segunda,77,4.0
-Hombre,Primera,77,33210.0
-Hombre,Segunda,77,29940.0
-Intersex (Indeterminado),Primera,77,2.0
-Intersex (Indeterminado),Segunda,77,2.0
-Mujer,Primera,77,43110.0
-Mujer,Segunda,77,38562.0
-Desconocido,Primera,78,5.0
-Desconocido,Segunda,78,5.0
-Hombre,Primera,78,30754.0
-Hombre,Segunda,78,27587.0
-Intersex (Indeterminado),Primera,78,1.0
-Intersex (Indeterminado),Segunda,78,1.0
-Mujer,Primera,78,41144.0
-Mujer,Segunda,78,36602.0
+Hombre,Primera,76,38456.0
+Hombre,Segunda,76,37333.0
+Intersex (Indeterminado),Primera,76,11.0
+Intersex (Indeterminado),Segunda,76,8.0
+Mujer,Primera,76,49418.0
+Mujer,Segunda,76,48147.0
+Desconocido,Primera,77,1.0
+Desconocido,Segunda,77,1.0
+Hombre,Primera,77,34691.0
+Hombre,Segunda,77,33731.0
+Intersex (Indeterminado),Primera,77,7.0
+Intersex (Indeterminado),Segunda,77,5.0
+Mujer,Primera,77,45131.0
+Mujer,Segunda,77,43998.0
+Desconocido,Primera,78,3.0
+Desconocido,Segunda,78,3.0
+Hombre,Primera,78,32183.0
+Hombre,Segunda,78,31246.0
+Intersex (Indeterminado),Primera,78,5.0
+Intersex (Indeterminado),Segunda,78,5.0
+Mujer,Primera,78,43051.0
+Mujer,Segunda,78,41970.0
 Desconocido,Primera,79,4.0
-Desconocido,Segunda,79,3.0
-Hombre,Primera,79,27531.0
-Hombre,Segunda,79,24723.0
-Intersex (Indeterminado),Primera,79,2.0
-Intersex (Indeterminado),Segunda,79,2.0
-Mujer,Primera,79,37874.0
-Mujer,Segunda,79,33711.0
-Desconocido,Primera,80,4.0
-Desconocido,Segunda,80,4.0
-Hombre,Primera,80,25734.0
-Hombre,Segunda,80,23134.0
+Desconocido,Segunda,79,4.0
+Hombre,Primera,79,28753.0
+Hombre,Segunda,79,27938.0
+Intersex (Indeterminado),Primera,79,8.0
+Intersex (Indeterminado),Segunda,79,5.0
+Mujer,Primera,79,39640.0
+Mujer,Segunda,79,38617.0
+Desconocido,Primera,80,6.0
+Desconocido,Segunda,80,5.0
+Hombre,Primera,80,26804.0
+Hombre,Segunda,80,26091.0
 Intersex (Indeterminado),Primera,80,2.0
-Intersex (Indeterminado),Segunda,80,2.0
-Mujer,Primera,80,36085.0
-Mujer,Segunda,80,32134.0
-Desconocido,Primera,81,2.0
-Desconocido,Segunda,81,2.0
-Hombre,Primera,81,22036.0
-Hombre,Segunda,81,19757.0
-Intersex (Indeterminado),Primera,81,
-Intersex (Indeterminado),Segunda,81,
-Mujer,Primera,81,32298.0
-Mujer,Segunda,81,28659.0
-Desconocido,Primera,82,1.0
-Desconocido,Segunda,82,1.0
-Hombre,Primera,82,18938.0
-Hombre,Segunda,82,17049.0
-Intersex (Indeterminado),Primera,82,1.0
-Intersex (Indeterminado),Segunda,82,1.0
-Mujer,Primera,82,28206.0
-Mujer,Segunda,82,25094.0
-Desconocido,Primera,83,4.0
-Desconocido,Segunda,83,3.0
-Hombre,Primera,83,17045.0
-Hombre,Segunda,83,15324.0
-Intersex (Indeterminado),Primera,83,2.0
-Intersex (Indeterminado),Segunda,83,1.0
-Mujer,Primera,83,25763.0
-Mujer,Segunda,83,22772.0
-Desconocido,Primera,84,4.0
-Desconocido,Segunda,84,1.0
-Hombre,Primera,84,15111.0
-Hombre,Segunda,84,13512.0
-Intersex (Indeterminado),Primera,84,1.0
+Intersex (Indeterminado),Segunda,80,0.0
+Mujer,Primera,80,37741.0
+Mujer,Segunda,80,36762.0
+Desconocido,Primera,81,5.0
+Desconocido,Segunda,81,4.0
+Hombre,Primera,81,22984.0
+Hombre,Segunda,81,22303.0
+Intersex (Indeterminado),Primera,81,2.0
+Intersex (Indeterminado),Segunda,81,1.0
+Mujer,Primera,81,33714.0
+Mujer,Segunda,81,32873.0
+Desconocido,Primera,82,4.0
+Desconocido,Segunda,82,4.0
+Hombre,Primera,82,19735.0
+Hombre,Segunda,82,19182.0
+Intersex (Indeterminado),Primera,82,6.0
+Intersex (Indeterminado),Segunda,82,3.0
+Mujer,Primera,82,29506.0
+Mujer,Segunda,82,28768.0
+Desconocido,Primera,83,6.0
+Desconocido,Segunda,83,5.0
+Hombre,Primera,83,17761.0
+Hombre,Segunda,83,17245.0
+Intersex (Indeterminado),Primera,83,3.0
+Intersex (Indeterminado),Segunda,83,2.0
+Mujer,Primera,83,26964.0
+Mujer,Segunda,83,26285.0
+Desconocido,Primera,84,5.0
+Desconocido,Segunda,84,4.0
+Hombre,Primera,84,15778.0
+Hombre,Segunda,84,15321.0
+Intersex (Indeterminado),Primera,84,2.0
 Intersex (Indeterminado),Segunda,84,1.0
-Mujer,Primera,84,23805.0
-Mujer,Segunda,84,21064.0
-Desconocido,Primera,85,1.0
-Desconocido,Segunda,85,1.0
-Hombre,Primera,85,13183.0
-Hombre,Segunda,85,11774.0
-Intersex (Indeterminado),Primera,85,
-Intersex (Indeterminado),Segunda,85,
-Mujer,Primera,85,21382.0
-Mujer,Segunda,85,18764.0
-Desconocido,Primera,86,1.0
-Desconocido,Segunda,86,1.0
-Hombre,Primera,86,11410.0
-Hombre,Segunda,86,10134.0
-Intersex (Indeterminado),Primera,86,
-Intersex (Indeterminado),Segunda,86,
-Mujer,Primera,86,19551.0
-Mujer,Segunda,86,17128.0
-Desconocido,Primera,87,2.0
-Desconocido,Segunda,87,2.0
-Hombre,Primera,87,9671.0
-Hombre,Segunda,87,8584.0
-Intersex (Indeterminado),Primera,87,1.0
+Mujer,Primera,84,24907.0
+Mujer,Segunda,84,24260.0
+Desconocido,Primera,85,3.0
+Desconocido,Segunda,85,3.0
+Hombre,Primera,85,13752.0
+Hombre,Segunda,85,13337.0
+Intersex (Indeterminado),Primera,85,3.0
+Intersex (Indeterminado),Segunda,85,3.0
+Mujer,Primera,85,22372.0
+Mujer,Segunda,85,21754.0
+Desconocido,Primera,86,
+Desconocido,Segunda,86,
+Hombre,Primera,86,11909.0
+Hombre,Segunda,86,11513.0
+Intersex (Indeterminado),Primera,86,2.0
+Intersex (Indeterminado),Segunda,86,1.0
+Mujer,Primera,86,20488.0
+Mujer,Segunda,86,19919.0
+Desconocido,Primera,87,1.0
+Desconocido,Segunda,87,1.0
+Hombre,Primera,87,10076.0
+Hombre,Segunda,87,9771.0
+Intersex (Indeterminado),Primera,87,3.0
 Intersex (Indeterminado),Segunda,87,1.0
-Mujer,Primera,87,17028.0
-Mujer,Segunda,87,14967.0
-Desconocido,Primera,88,
-Desconocido,Segunda,88,
-Hombre,Primera,88,8753.0
-Hombre,Segunda,88,7717.0
-Intersex (Indeterminado),Primera,88,1.0
-Intersex (Indeterminado),Segunda,88,1.0
-Mujer,Primera,88,15928.0
-Mujer,Segunda,88,13822.0
-Desconocido,Primera,89,2.0
-Desconocido,Segunda,89,2.0
-Hombre,Primera,89,7374.0
-Hombre,Segunda,89,6490.0
+Mujer,Primera,87,17820.0
+Mujer,Segunda,87,17343.0
+Desconocido,Primera,88,3.0
+Desconocido,Segunda,88,3.0
+Hombre,Primera,88,9090.0
+Hombre,Segunda,88,8805.0
+Intersex (Indeterminado),Primera,88,2.0
+Intersex (Indeterminado),Segunda,88,2.0
+Mujer,Primera,88,16717.0
+Mujer,Segunda,88,16235.0
+Desconocido,Primera,89,1.0
+Desconocido,Segunda,89,0.0
+Hombre,Primera,89,7667.0
+Hombre,Segunda,89,7415.0
 Intersex (Indeterminado),Primera,89,1.0
 Intersex (Indeterminado),Segunda,89,1.0
-Mujer,Primera,89,14035.0
-Mujer,Segunda,89,12267.0
-Desconocido,Primera,90,5.0
-Desconocido,Segunda,90,4.0
-Hombre,Primera,90,6262.0
-Hombre,Segunda,90,5501.0
-Intersex (Indeterminado),Primera,90,2.0
-Intersex (Indeterminado),Segunda,90,2.0
-Mujer,Primera,90,13160.0
-Mujer,Segunda,90,11316.0
-Desconocido,Primera,91,
-Desconocido,Segunda,91,
-Hombre,Primera,91,4881.0
-Hombre,Segunda,91,4252.0
-Intersex (Indeterminado),Primera,91,
-Intersex (Indeterminado),Segunda,91,
-Mujer,Primera,91,10852.0
-Mujer,Segunda,91,9378.0
+Mujer,Primera,89,14630.0
+Mujer,Segunda,89,14238.0
+Desconocido,Primera,90,2.0
+Desconocido,Segunda,90,2.0
+Hombre,Primera,90,6566.0
+Hombre,Segunda,90,6334.0
+Intersex (Indeterminado),Primera,90,1.0
+Intersex (Indeterminado),Segunda,90,1.0
+Mujer,Primera,90,13763.0
+Mujer,Segunda,90,13332.0
+Desconocido,Primera,91,1.0
+Desconocido,Segunda,91,1.0
+Hombre,Primera,91,5096.0
+Hombre,Segunda,91,4902.0
+Intersex (Indeterminado),Primera,91,1.0
+Intersex (Indeterminado),Segunda,91,1.0
+Mujer,Primera,91,11353.0
+Mujer,Segunda,91,11002.0
 Desconocido,Primera,92,
 Desconocido,Segunda,92,
-Hombre,Primera,92,3840.0
-Hombre,Segunda,92,3355.0
+Hombre,Primera,92,4008.0
+Hombre,Segunda,92,3849.0
 Intersex (Indeterminado),Primera,92,
 Intersex (Indeterminado),Segunda,92,
-Mujer,Primera,92,8925.0
-Mujer,Segunda,92,7630.0
-Desconocido,Primera,93,1.0
-Desconocido,Segunda,93,1.0
-Hombre,Primera,93,2893.0
-Hombre,Segunda,93,2519.0
+Mujer,Primera,92,9314.0
+Mujer,Segunda,92,9025.0
+Desconocido,Primera,93,2.0
+Desconocido,Segunda,93,2.0
+Hombre,Primera,93,2997.0
+Hombre,Segunda,93,2891.0
 Intersex (Indeterminado),Primera,93,1.0
 Intersex (Indeterminado),Segunda,93,1.0
-Mujer,Primera,93,6856.0
-Mujer,Segunda,93,5830.0
-Desconocido,Primera,94,
-Desconocido,Segunda,94,
-Hombre,Primera,94,1930.0
-Hombre,Segunda,94,1652.0
-Intersex (Indeterminado),Primera,94,
-Intersex (Indeterminado),Segunda,94,
-Mujer,Primera,94,5060.0
-Mujer,Segunda,94,4309.0
+Mujer,Primera,93,7188.0
+Mujer,Segunda,93,6941.0
+Desconocido,Primera,94,2.0
+Desconocido,Segunda,94,2.0
+Hombre,Primera,94,2012.0
+Hombre,Segunda,94,1938.0
+Intersex (Indeterminado),Primera,94,1.0
+Intersex (Indeterminado),Segunda,94,1.0
+Mujer,Primera,94,5305.0
+Mujer,Segunda,94,5106.0
 Desconocido,Primera,95,1.0
 Desconocido,Segunda,95,1.0
-Hombre,Primera,95,1343.0
-Hombre,Segunda,95,1106.0
-Intersex (Indeterminado),Primera,95,
-Intersex (Indeterminado),Segunda,95,
-Mujer,Primera,95,3842.0
-Mujer,Segunda,95,3219.0
+Hombre,Primera,95,1402.0
+Hombre,Segunda,95,1339.0
+Intersex (Indeterminado),Primera,95,2.0
+Intersex (Indeterminado),Segunda,95,0.0
+Mujer,Primera,95,3987.0
+Mujer,Segunda,95,3859.0
 Desconocido,Primera,96,
 Desconocido,Segunda,96,
-Hombre,Primera,96,1043.0
-Hombre,Segunda,96,867.0
+Hombre,Primera,96,1092.0
+Hombre,Segunda,96,1038.0
 Intersex (Indeterminado),Primera,96,
 Intersex (Indeterminado),Segunda,96,
-Mujer,Primera,96,3007.0
-Mujer,Segunda,96,2505.0
+Mujer,Primera,96,3154.0
+Mujer,Segunda,96,3039.0
 Desconocido,Primera,97,
 Desconocido,Segunda,97,
-Hombre,Primera,97,665.0
-Hombre,Segunda,97,574.0
+Hombre,Primera,97,702.0
+Hombre,Segunda,97,668.0
 Intersex (Indeterminado),Primera,97,
 Intersex (Indeterminado),Segunda,97,
-Mujer,Primera,97,2105.0
-Mujer,Segunda,97,1758.0
-Desconocido,Primera,98,1.0
-Desconocido,Segunda,98,1.0
-Hombre,Primera,98,447.0
-Hombre,Segunda,98,366.0
+Mujer,Primera,97,2184.0
+Mujer,Segunda,97,2118.0
+Desconocido,Primera,98,
+Desconocido,Segunda,98,
+Hombre,Primera,98,467.0
+Hombre,Segunda,98,441.0
 Intersex (Indeterminado),Primera,98,
 Intersex (Indeterminado),Segunda,98,
-Mujer,Primera,98,1535.0
-Mujer,Segunda,98,1267.0
+Mujer,Primera,98,1606.0
+Mujer,Segunda,98,1536.0
 Desconocido,Primera,99,
 Desconocido,Segunda,99,
-Hombre,Primera,99,314.0
-Hombre,Segunda,99,267.0
+Hombre,Primera,99,327.0
+Hombre,Segunda,99,309.0
 Intersex (Indeterminado),Primera,99,
 Intersex (Indeterminado),Segunda,99,
-Mujer,Primera,99,996.0
-Mujer,Segunda,99,814.0
+Mujer,Primera,99,1050.0
+Mujer,Segunda,99,995.0
 Desconocido,Primera,100,
 Desconocido,Segunda,100,
-Hombre,Primera,100,169.0
-Hombre,Segunda,100,137.0
+Hombre,Primera,100,177.0
+Hombre,Segunda,100,168.0
 Intersex (Indeterminado),Primera,100,
 Intersex (Indeterminado),Segunda,100,
-Mujer,Primera,100,697.0
-Mujer,Segunda,100,572.0
+Mujer,Primera,100,724.0
+Mujer,Segunda,100,696.0
 Desconocido,Primera,101,
 Desconocido,Segunda,101,
-Hombre,Primera,101,100.0
-Hombre,Segunda,101,79.0
+Hombre,Primera,101,104.0
+Hombre,Segunda,101,96.0
 Intersex (Indeterminado),Primera,101,
 Intersex (Indeterminado),Segunda,101,
-Mujer,Primera,101,416.0
-Mujer,Segunda,101,346.0
+Mujer,Primera,101,432.0
+Mujer,Segunda,101,416.0
 Desconocido,Primera,102,
 Desconocido,Segunda,102,
-Hombre,Primera,102,53.0
-Hombre,Segunda,102,42.0
+Hombre,Primera,102,58.0
+Hombre,Segunda,102,54.0
 Intersex (Indeterminado),Primera,102,
 Intersex (Indeterminado),Segunda,102,
-Mujer,Primera,102,274.0
-Mujer,Segunda,102,217.0
+Mujer,Primera,102,281.0
+Mujer,Segunda,102,268.0
 Desconocido,Primera,103,
 Desconocido,Segunda,103,
-Hombre,Primera,103,34.0
-Hombre,Segunda,103,28.0
-Intersex (Indeterminado),Primera,103,
-Intersex (Indeterminado),Segunda,103,
-Mujer,Primera,103,165.0
-Mujer,Segunda,103,132.0
+Hombre,Primera,103,35.0
+Hombre,Segunda,103,32.0
+Intersex (Indeterminado),Primera,103,1.0
+Intersex (Indeterminado),Segunda,103,0.0
+Mujer,Primera,103,168.0
+Mujer,Segunda,103,157.0
 Desconocido,Primera,104,
 Desconocido,Segunda,104,
-Hombre,Primera,104,14.0
-Hombre,Segunda,104,9.0
+Hombre,Primera,104,15.0
+Hombre,Segunda,104,13.0
 Intersex (Indeterminado),Primera,104,
 Intersex (Indeterminado),Segunda,104,
-Mujer,Primera,104,96.0
-Mujer,Segunda,104,82.0
+Mujer,Primera,104,98.0
+Mujer,Segunda,104,93.0
 Desconocido,Primera,105,
 Desconocido,Segunda,105,
-Hombre,Primera,105,16.0
-Hombre,Segunda,105,9.0
+Hombre,Primera,105,17.0
+Hombre,Segunda,105,14.0
 Intersex (Indeterminado),Primera,105,
 Intersex (Indeterminado),Segunda,105,
-Mujer,Primera,105,51.0
-Mujer,Segunda,105,40.0
+Mujer,Primera,105,55.0
+Mujer,Segunda,105,53.0
 Desconocido,Primera,106,
 Desconocido,Segunda,106,
 Hombre,Primera,106,2.0
 Hombre,Segunda,106,2.0
 Intersex (Indeterminado),Primera,106,
 Intersex (Indeterminado),Segunda,106,
-Mujer,Primera,106,25.0
-Mujer,Segunda,106,22.0
+Mujer,Primera,106,26.0
+Mujer,Segunda,106,26.0
 Desconocido,Primera,107,
 Desconocido,Segunda,107,
 Hombre,Primera,107,4.0
-Hombre,Segunda,107,2.0
+Hombre,Segunda,107,3.0
 Intersex (Indeterminado),Primera,107,
 Intersex (Indeterminado),Segunda,107,
-Mujer,Primera,107,22.0
-Mujer,Segunda,107,16.0
+Mujer,Primera,107,21.0
+Mujer,Segunda,107,21.0
 Desconocido,Primera,108,
 Desconocido,Segunda,108,
 Hombre,Primera,108,1.0
 Hombre,Segunda,108,1.0
 Intersex (Indeterminado),Primera,108,
 Intersex (Indeterminado),Segunda,108,
-Mujer,Primera,108,17.0
-Mujer,Segunda,108,10.0
+Mujer,Primera,108,19.0
+Mujer,Segunda,108,18.0
 Desconocido,Primera,109,
 Desconocido,Segunda,109,
 Hombre,Primera,109,1.0
@@ -758,14 +734,14 @@ Hombre,Segunda,109,1.0
 Intersex (Indeterminado),Primera,109,
 Intersex (Indeterminado),Segunda,109,
 Mujer,Primera,109,7.0
-Mujer,Segunda,109,6.0
+Mujer,Segunda,109,7.0
 Desconocido,Primera,110,
 Desconocido,Segunda,110,
-Hombre,Primera,110,3.0
+Hombre,Primera,110,2.0
 Hombre,Segunda,110,2.0
 Intersex (Indeterminado),Primera,110,
 Intersex (Indeterminado),Segunda,110,
-Mujer,Primera,110,7.0
+Mujer,Primera,110,6.0
 Mujer,Segunda,110,6.0
 Desconocido,Primera,111,
 Desconocido,Segunda,111,
@@ -782,7 +758,7 @@ Hombre,Segunda,112,
 Intersex (Indeterminado),Primera,112,
 Intersex (Indeterminado),Segunda,112,
 Mujer,Primera,112,1.0
-Mujer,Segunda,112,0.0
+Mujer,Segunda,112,1.0
 Desconocido,Primera,113,
 Desconocido,Segunda,113,
 Hombre,Primera,113,
@@ -813,8 +789,8 @@ Hombre,Primera,116,
 Hombre,Segunda,116,
 Intersex (Indeterminado),Primera,116,
 Intersex (Indeterminado),Segunda,116,
-Mujer,Primera,116,
-Mujer,Segunda,116,
+Mujer,Primera,116,1.0
+Mujer,Segunda,116,0.0
 Desconocido,Primera,117,
 Desconocido,Segunda,117,
 Hombre,Primera,117,
@@ -849,12 +825,12 @@ Mujer,Primera,120,
 Mujer,Segunda,120,
 Desconocido,Primera,121,
 Desconocido,Segunda,121,
-Hombre,Primera,121,
-Hombre,Segunda,121,
+Hombre,Primera,121,4.0
+Hombre,Segunda,121,2.0
 Intersex (Indeterminado),Primera,121,
 Intersex (Indeterminado),Segunda,121,
-Mujer,Primera,121,
-Mujer,Segunda,121,
+Mujer,Primera,121,1.0
+Mujer,Segunda,121,0.0
 Desconocido,Primera,122,
 Desconocido,Segunda,122,
 Hombre,Primera,122,
@@ -885,5 +861,773 @@ Hombre,Primera,125,
 Hombre,Segunda,125,
 Intersex (Indeterminado),Primera,125,
 Intersex (Indeterminado),Segunda,125,
-Mujer,Primera,125,1.0
-Mujer,Segunda,125,0.0
+Mujer,Primera,125,
+Mujer,Segunda,125,
+Desconocido,Primera,126,
+Desconocido,Segunda,126,
+Hombre,Primera,126,
+Hombre,Segunda,126,
+Intersex (Indeterminado),Primera,126,
+Intersex (Indeterminado),Segunda,126,
+Mujer,Primera,126,
+Mujer,Segunda,126,
+Desconocido,Primera,127,
+Desconocido,Segunda,127,
+Hombre,Primera,127,
+Hombre,Segunda,127,
+Intersex (Indeterminado),Primera,127,
+Intersex (Indeterminado),Segunda,127,
+Mujer,Primera,127,
+Mujer,Segunda,127,
+Desconocido,Primera,128,
+Desconocido,Segunda,128,
+Hombre,Primera,128,
+Hombre,Segunda,128,
+Intersex (Indeterminado),Primera,128,
+Intersex (Indeterminado),Segunda,128,
+Mujer,Primera,128,
+Mujer,Segunda,128,
+Desconocido,Primera,129,
+Desconocido,Segunda,129,
+Hombre,Primera,129,
+Hombre,Segunda,129,
+Intersex (Indeterminado),Primera,129,
+Intersex (Indeterminado),Segunda,129,
+Mujer,Primera,129,
+Mujer,Segunda,129,
+Desconocido,Primera,130,
+Desconocido,Segunda,130,
+Hombre,Primera,130,
+Hombre,Segunda,130,
+Intersex (Indeterminado),Primera,130,
+Intersex (Indeterminado),Segunda,130,
+Mujer,Primera,130,
+Mujer,Segunda,130,
+Desconocido,Primera,131,
+Desconocido,Segunda,131,
+Hombre,Primera,131,
+Hombre,Segunda,131,
+Intersex (Indeterminado),Primera,131,
+Intersex (Indeterminado),Segunda,131,
+Mujer,Primera,131,
+Mujer,Segunda,131,
+Desconocido,Primera,132,
+Desconocido,Segunda,132,
+Hombre,Primera,132,
+Hombre,Segunda,132,
+Intersex (Indeterminado),Primera,132,
+Intersex (Indeterminado),Segunda,132,
+Mujer,Primera,132,
+Mujer,Segunda,132,
+Desconocido,Primera,133,
+Desconocido,Segunda,133,
+Hombre,Primera,133,
+Hombre,Segunda,133,
+Intersex (Indeterminado),Primera,133,
+Intersex (Indeterminado),Segunda,133,
+Mujer,Primera,133,
+Mujer,Segunda,133,
+Desconocido,Primera,134,
+Desconocido,Segunda,134,
+Hombre,Primera,134,
+Hombre,Segunda,134,
+Intersex (Indeterminado),Primera,134,
+Intersex (Indeterminado),Segunda,134,
+Mujer,Primera,134,
+Mujer,Segunda,134,
+Desconocido,Primera,135,
+Desconocido,Segunda,135,
+Hombre,Primera,135,
+Hombre,Segunda,135,
+Intersex (Indeterminado),Primera,135,
+Intersex (Indeterminado),Segunda,135,
+Mujer,Primera,135,
+Mujer,Segunda,135,
+Desconocido,Primera,136,
+Desconocido,Segunda,136,
+Hombre,Primera,136,
+Hombre,Segunda,136,
+Intersex (Indeterminado),Primera,136,
+Intersex (Indeterminado),Segunda,136,
+Mujer,Primera,136,
+Mujer,Segunda,136,
+Desconocido,Primera,137,
+Desconocido,Segunda,137,
+Hombre,Primera,137,
+Hombre,Segunda,137,
+Intersex (Indeterminado),Primera,137,
+Intersex (Indeterminado),Segunda,137,
+Mujer,Primera,137,
+Mujer,Segunda,137,
+Desconocido,Primera,138,
+Desconocido,Segunda,138,
+Hombre,Primera,138,
+Hombre,Segunda,138,
+Intersex (Indeterminado),Primera,138,
+Intersex (Indeterminado),Segunda,138,
+Mujer,Primera,138,
+Mujer,Segunda,138,
+Desconocido,Primera,139,
+Desconocido,Segunda,139,
+Hombre,Primera,139,
+Hombre,Segunda,139,
+Intersex (Indeterminado),Primera,139,
+Intersex (Indeterminado),Segunda,139,
+Mujer,Primera,139,
+Mujer,Segunda,139,
+Desconocido,Primera,140,
+Desconocido,Segunda,140,
+Hombre,Primera,140,
+Hombre,Segunda,140,
+Intersex (Indeterminado),Primera,140,
+Intersex (Indeterminado),Segunda,140,
+Mujer,Primera,140,
+Mujer,Segunda,140,
+Desconocido,Primera,141,
+Desconocido,Segunda,141,
+Hombre,Primera,141,
+Hombre,Segunda,141,
+Intersex (Indeterminado),Primera,141,
+Intersex (Indeterminado),Segunda,141,
+Mujer,Primera,141,
+Mujer,Segunda,141,
+Desconocido,Primera,142,
+Desconocido,Segunda,142,
+Hombre,Primera,142,
+Hombre,Segunda,142,
+Intersex (Indeterminado),Primera,142,
+Intersex (Indeterminado),Segunda,142,
+Mujer,Primera,142,
+Mujer,Segunda,142,
+Desconocido,Primera,143,
+Desconocido,Segunda,143,
+Hombre,Primera,143,
+Hombre,Segunda,143,
+Intersex (Indeterminado),Primera,143,
+Intersex (Indeterminado),Segunda,143,
+Mujer,Primera,143,
+Mujer,Segunda,143,
+Desconocido,Primera,144,
+Desconocido,Segunda,144,
+Hombre,Primera,144,
+Hombre,Segunda,144,
+Intersex (Indeterminado),Primera,144,
+Intersex (Indeterminado),Segunda,144,
+Mujer,Primera,144,
+Mujer,Segunda,144,
+Desconocido,Primera,145,
+Desconocido,Segunda,145,
+Hombre,Primera,145,
+Hombre,Segunda,145,
+Intersex (Indeterminado),Primera,145,
+Intersex (Indeterminado),Segunda,145,
+Mujer,Primera,145,
+Mujer,Segunda,145,
+Desconocido,Primera,146,
+Desconocido,Segunda,146,
+Hombre,Primera,146,
+Hombre,Segunda,146,
+Intersex (Indeterminado),Primera,146,
+Intersex (Indeterminado),Segunda,146,
+Mujer,Primera,146,
+Mujer,Segunda,146,
+Desconocido,Primera,147,
+Desconocido,Segunda,147,
+Hombre,Primera,147,
+Hombre,Segunda,147,
+Intersex (Indeterminado),Primera,147,
+Intersex (Indeterminado),Segunda,147,
+Mujer,Primera,147,
+Mujer,Segunda,147,
+Desconocido,Primera,148,
+Desconocido,Segunda,148,
+Hombre,Primera,148,
+Hombre,Segunda,148,
+Intersex (Indeterminado),Primera,148,
+Intersex (Indeterminado),Segunda,148,
+Mujer,Primera,148,
+Mujer,Segunda,148,
+Desconocido,Primera,149,
+Desconocido,Segunda,149,
+Hombre,Primera,149,
+Hombre,Segunda,149,
+Intersex (Indeterminado),Primera,149,
+Intersex (Indeterminado),Segunda,149,
+Mujer,Primera,149,
+Mujer,Segunda,149,
+Desconocido,Primera,150,
+Desconocido,Segunda,150,
+Hombre,Primera,150,
+Hombre,Segunda,150,
+Intersex (Indeterminado),Primera,150,
+Intersex (Indeterminado),Segunda,150,
+Mujer,Primera,150,
+Mujer,Segunda,150,
+Desconocido,Primera,151,
+Desconocido,Segunda,151,
+Hombre,Primera,151,
+Hombre,Segunda,151,
+Intersex (Indeterminado),Primera,151,
+Intersex (Indeterminado),Segunda,151,
+Mujer,Primera,151,
+Mujer,Segunda,151,
+Desconocido,Primera,152,
+Desconocido,Segunda,152,
+Hombre,Primera,152,
+Hombre,Segunda,152,
+Intersex (Indeterminado),Primera,152,
+Intersex (Indeterminado),Segunda,152,
+Mujer,Primera,152,
+Mujer,Segunda,152,
+Desconocido,Primera,153,
+Desconocido,Segunda,153,
+Hombre,Primera,153,
+Hombre,Segunda,153,
+Intersex (Indeterminado),Primera,153,
+Intersex (Indeterminado),Segunda,153,
+Mujer,Primera,153,
+Mujer,Segunda,153,
+Desconocido,Primera,154,
+Desconocido,Segunda,154,
+Hombre,Primera,154,
+Hombre,Segunda,154,
+Intersex (Indeterminado),Primera,154,
+Intersex (Indeterminado),Segunda,154,
+Mujer,Primera,154,
+Mujer,Segunda,154,
+Desconocido,Primera,155,
+Desconocido,Segunda,155,
+Hombre,Primera,155,
+Hombre,Segunda,155,
+Intersex (Indeterminado),Primera,155,
+Intersex (Indeterminado),Segunda,155,
+Mujer,Primera,155,
+Mujer,Segunda,155,
+Desconocido,Primera,156,
+Desconocido,Segunda,156,
+Hombre,Primera,156,
+Hombre,Segunda,156,
+Intersex (Indeterminado),Primera,156,
+Intersex (Indeterminado),Segunda,156,
+Mujer,Primera,156,
+Mujer,Segunda,156,
+Desconocido,Primera,157,
+Desconocido,Segunda,157,
+Hombre,Primera,157,
+Hombre,Segunda,157,
+Intersex (Indeterminado),Primera,157,
+Intersex (Indeterminado),Segunda,157,
+Mujer,Primera,157,
+Mujer,Segunda,157,
+Desconocido,Primera,158,
+Desconocido,Segunda,158,
+Hombre,Primera,158,
+Hombre,Segunda,158,
+Intersex (Indeterminado),Primera,158,
+Intersex (Indeterminado),Segunda,158,
+Mujer,Primera,158,
+Mujer,Segunda,158,
+Desconocido,Primera,159,
+Desconocido,Segunda,159,
+Hombre,Primera,159,
+Hombre,Segunda,159,
+Intersex (Indeterminado),Primera,159,
+Intersex (Indeterminado),Segunda,159,
+Mujer,Primera,159,
+Mujer,Segunda,159,
+Desconocido,Primera,160,
+Desconocido,Segunda,160,
+Hombre,Primera,160,
+Hombre,Segunda,160,
+Intersex (Indeterminado),Primera,160,
+Intersex (Indeterminado),Segunda,160,
+Mujer,Primera,160,
+Mujer,Segunda,160,
+Desconocido,Primera,161,
+Desconocido,Segunda,161,
+Hombre,Primera,161,
+Hombre,Segunda,161,
+Intersex (Indeterminado),Primera,161,
+Intersex (Indeterminado),Segunda,161,
+Mujer,Primera,161,
+Mujer,Segunda,161,
+Desconocido,Primera,162,
+Desconocido,Segunda,162,
+Hombre,Primera,162,
+Hombre,Segunda,162,
+Intersex (Indeterminado),Primera,162,
+Intersex (Indeterminado),Segunda,162,
+Mujer,Primera,162,
+Mujer,Segunda,162,
+Desconocido,Primera,163,
+Desconocido,Segunda,163,
+Hombre,Primera,163,
+Hombre,Segunda,163,
+Intersex (Indeterminado),Primera,163,
+Intersex (Indeterminado),Segunda,163,
+Mujer,Primera,163,
+Mujer,Segunda,163,
+Desconocido,Primera,164,
+Desconocido,Segunda,164,
+Hombre,Primera,164,
+Hombre,Segunda,164,
+Intersex (Indeterminado),Primera,164,
+Intersex (Indeterminado),Segunda,164,
+Mujer,Primera,164,
+Mujer,Segunda,164,
+Desconocido,Primera,165,
+Desconocido,Segunda,165,
+Hombre,Primera,165,
+Hombre,Segunda,165,
+Intersex (Indeterminado),Primera,165,
+Intersex (Indeterminado),Segunda,165,
+Mujer,Primera,165,
+Mujer,Segunda,165,
+Desconocido,Primera,166,
+Desconocido,Segunda,166,
+Hombre,Primera,166,
+Hombre,Segunda,166,
+Intersex (Indeterminado),Primera,166,
+Intersex (Indeterminado),Segunda,166,
+Mujer,Primera,166,
+Mujer,Segunda,166,
+Desconocido,Primera,167,
+Desconocido,Segunda,167,
+Hombre,Primera,167,
+Hombre,Segunda,167,
+Intersex (Indeterminado),Primera,167,
+Intersex (Indeterminado),Segunda,167,
+Mujer,Primera,167,
+Mujer,Segunda,167,
+Desconocido,Primera,168,
+Desconocido,Segunda,168,
+Hombre,Primera,168,
+Hombre,Segunda,168,
+Intersex (Indeterminado),Primera,168,
+Intersex (Indeterminado),Segunda,168,
+Mujer,Primera,168,
+Mujer,Segunda,168,
+Desconocido,Primera,169,
+Desconocido,Segunda,169,
+Hombre,Primera,169,
+Hombre,Segunda,169,
+Intersex (Indeterminado),Primera,169,
+Intersex (Indeterminado),Segunda,169,
+Mujer,Primera,169,
+Mujer,Segunda,169,
+Desconocido,Primera,170,
+Desconocido,Segunda,170,
+Hombre,Primera,170,
+Hombre,Segunda,170,
+Intersex (Indeterminado),Primera,170,
+Intersex (Indeterminado),Segunda,170,
+Mujer,Primera,170,
+Mujer,Segunda,170,
+Desconocido,Primera,171,
+Desconocido,Segunda,171,
+Hombre,Primera,171,
+Hombre,Segunda,171,
+Intersex (Indeterminado),Primera,171,
+Intersex (Indeterminado),Segunda,171,
+Mujer,Primera,171,
+Mujer,Segunda,171,
+Desconocido,Primera,172,
+Desconocido,Segunda,172,
+Hombre,Primera,172,
+Hombre,Segunda,172,
+Intersex (Indeterminado),Primera,172,
+Intersex (Indeterminado),Segunda,172,
+Mujer,Primera,172,
+Mujer,Segunda,172,
+Desconocido,Primera,173,
+Desconocido,Segunda,173,
+Hombre,Primera,173,
+Hombre,Segunda,173,
+Intersex (Indeterminado),Primera,173,
+Intersex (Indeterminado),Segunda,173,
+Mujer,Primera,173,
+Mujer,Segunda,173,
+Desconocido,Primera,174,
+Desconocido,Segunda,174,
+Hombre,Primera,174,
+Hombre,Segunda,174,
+Intersex (Indeterminado),Primera,174,
+Intersex (Indeterminado),Segunda,174,
+Mujer,Primera,174,
+Mujer,Segunda,174,
+Desconocido,Primera,175,
+Desconocido,Segunda,175,
+Hombre,Primera,175,
+Hombre,Segunda,175,
+Intersex (Indeterminado),Primera,175,
+Intersex (Indeterminado),Segunda,175,
+Mujer,Primera,175,
+Mujer,Segunda,175,
+Desconocido,Primera,176,
+Desconocido,Segunda,176,
+Hombre,Primera,176,
+Hombre,Segunda,176,
+Intersex (Indeterminado),Primera,176,
+Intersex (Indeterminado),Segunda,176,
+Mujer,Primera,176,
+Mujer,Segunda,176,
+Desconocido,Primera,177,
+Desconocido,Segunda,177,
+Hombre,Primera,177,
+Hombre,Segunda,177,
+Intersex (Indeterminado),Primera,177,
+Intersex (Indeterminado),Segunda,177,
+Mujer,Primera,177,
+Mujer,Segunda,177,
+Desconocido,Primera,178,
+Desconocido,Segunda,178,
+Hombre,Primera,178,
+Hombre,Segunda,178,
+Intersex (Indeterminado),Primera,178,
+Intersex (Indeterminado),Segunda,178,
+Mujer,Primera,178,
+Mujer,Segunda,178,
+Desconocido,Primera,179,
+Desconocido,Segunda,179,
+Hombre,Primera,179,
+Hombre,Segunda,179,
+Intersex (Indeterminado),Primera,179,
+Intersex (Indeterminado),Segunda,179,
+Mujer,Primera,179,
+Mujer,Segunda,179,
+Desconocido,Primera,180,
+Desconocido,Segunda,180,
+Hombre,Primera,180,
+Hombre,Segunda,180,
+Intersex (Indeterminado),Primera,180,
+Intersex (Indeterminado),Segunda,180,
+Mujer,Primera,180,
+Mujer,Segunda,180,
+Desconocido,Primera,181,
+Desconocido,Segunda,181,
+Hombre,Primera,181,
+Hombre,Segunda,181,
+Intersex (Indeterminado),Primera,181,
+Intersex (Indeterminado),Segunda,181,
+Mujer,Primera,181,
+Mujer,Segunda,181,
+Desconocido,Primera,182,
+Desconocido,Segunda,182,
+Hombre,Primera,182,
+Hombre,Segunda,182,
+Intersex (Indeterminado),Primera,182,
+Intersex (Indeterminado),Segunda,182,
+Mujer,Primera,182,
+Mujer,Segunda,182,
+Desconocido,Primera,183,
+Desconocido,Segunda,183,
+Hombre,Primera,183,
+Hombre,Segunda,183,
+Intersex (Indeterminado),Primera,183,
+Intersex (Indeterminado),Segunda,183,
+Mujer,Primera,183,
+Mujer,Segunda,183,
+Desconocido,Primera,184,
+Desconocido,Segunda,184,
+Hombre,Primera,184,
+Hombre,Segunda,184,
+Intersex (Indeterminado),Primera,184,
+Intersex (Indeterminado),Segunda,184,
+Mujer,Primera,184,
+Mujer,Segunda,184,
+Desconocido,Primera,185,
+Desconocido,Segunda,185,
+Hombre,Primera,185,
+Hombre,Segunda,185,
+Intersex (Indeterminado),Primera,185,
+Intersex (Indeterminado),Segunda,185,
+Mujer,Primera,185,
+Mujer,Segunda,185,
+Desconocido,Primera,186,
+Desconocido,Segunda,186,
+Hombre,Primera,186,
+Hombre,Segunda,186,
+Intersex (Indeterminado),Primera,186,
+Intersex (Indeterminado),Segunda,186,
+Mujer,Primera,186,
+Mujer,Segunda,186,
+Desconocido,Primera,187,
+Desconocido,Segunda,187,
+Hombre,Primera,187,
+Hombre,Segunda,187,
+Intersex (Indeterminado),Primera,187,
+Intersex (Indeterminado),Segunda,187,
+Mujer,Primera,187,
+Mujer,Segunda,187,
+Desconocido,Primera,188,
+Desconocido,Segunda,188,
+Hombre,Primera,188,
+Hombre,Segunda,188,
+Intersex (Indeterminado),Primera,188,
+Intersex (Indeterminado),Segunda,188,
+Mujer,Primera,188,
+Mujer,Segunda,188,
+Desconocido,Primera,189,
+Desconocido,Segunda,189,
+Hombre,Primera,189,
+Hombre,Segunda,189,
+Intersex (Indeterminado),Primera,189,
+Intersex (Indeterminado),Segunda,189,
+Mujer,Primera,189,
+Mujer,Segunda,189,
+Desconocido,Primera,190,
+Desconocido,Segunda,190,
+Hombre,Primera,190,
+Hombre,Segunda,190,
+Intersex (Indeterminado),Primera,190,
+Intersex (Indeterminado),Segunda,190,
+Mujer,Primera,190,
+Mujer,Segunda,190,
+Desconocido,Primera,191,
+Desconocido,Segunda,191,
+Hombre,Primera,191,
+Hombre,Segunda,191,
+Intersex (Indeterminado),Primera,191,
+Intersex (Indeterminado),Segunda,191,
+Mujer,Primera,191,
+Mujer,Segunda,191,
+Desconocido,Primera,192,
+Desconocido,Segunda,192,
+Hombre,Primera,192,
+Hombre,Segunda,192,
+Intersex (Indeterminado),Primera,192,
+Intersex (Indeterminado),Segunda,192,
+Mujer,Primera,192,
+Mujer,Segunda,192,
+Desconocido,Primera,193,
+Desconocido,Segunda,193,
+Hombre,Primera,193,
+Hombre,Segunda,193,
+Intersex (Indeterminado),Primera,193,
+Intersex (Indeterminado),Segunda,193,
+Mujer,Primera,193,
+Mujer,Segunda,193,
+Desconocido,Primera,194,
+Desconocido,Segunda,194,
+Hombre,Primera,194,
+Hombre,Segunda,194,
+Intersex (Indeterminado),Primera,194,
+Intersex (Indeterminado),Segunda,194,
+Mujer,Primera,194,
+Mujer,Segunda,194,
+Desconocido,Primera,195,
+Desconocido,Segunda,195,
+Hombre,Primera,195,
+Hombre,Segunda,195,
+Intersex (Indeterminado),Primera,195,
+Intersex (Indeterminado),Segunda,195,
+Mujer,Primera,195,
+Mujer,Segunda,195,
+Desconocido,Primera,196,
+Desconocido,Segunda,196,
+Hombre,Primera,196,
+Hombre,Segunda,196,
+Intersex (Indeterminado),Primera,196,
+Intersex (Indeterminado),Segunda,196,
+Mujer,Primera,196,
+Mujer,Segunda,196,
+Desconocido,Primera,197,
+Desconocido,Segunda,197,
+Hombre,Primera,197,
+Hombre,Segunda,197,
+Intersex (Indeterminado),Primera,197,
+Intersex (Indeterminado),Segunda,197,
+Mujer,Primera,197,
+Mujer,Segunda,197,
+Desconocido,Primera,198,
+Desconocido,Segunda,198,
+Hombre,Primera,198,
+Hombre,Segunda,198,
+Intersex (Indeterminado),Primera,198,
+Intersex (Indeterminado),Segunda,198,
+Mujer,Primera,198,
+Mujer,Segunda,198,
+Desconocido,Primera,199,
+Desconocido,Segunda,199,
+Hombre,Primera,199,
+Hombre,Segunda,199,
+Intersex (Indeterminado),Primera,199,
+Intersex (Indeterminado),Segunda,199,
+Mujer,Primera,199,
+Mujer,Segunda,199,
+Desconocido,Primera,200,
+Desconocido,Segunda,200,
+Hombre,Primera,200,
+Hombre,Segunda,200,
+Intersex (Indeterminado),Primera,200,
+Intersex (Indeterminado),Segunda,200,
+Mujer,Primera,200,
+Mujer,Segunda,200,
+Desconocido,Primera,201,
+Desconocido,Segunda,201,
+Hombre,Primera,201,
+Hombre,Segunda,201,
+Intersex (Indeterminado),Primera,201,
+Intersex (Indeterminado),Segunda,201,
+Mujer,Primera,201,
+Mujer,Segunda,201,
+Desconocido,Primera,202,
+Desconocido,Segunda,202,
+Hombre,Primera,202,
+Hombre,Segunda,202,
+Intersex (Indeterminado),Primera,202,
+Intersex (Indeterminado),Segunda,202,
+Mujer,Primera,202,
+Mujer,Segunda,202,
+Desconocido,Primera,203,
+Desconocido,Segunda,203,
+Hombre,Primera,203,
+Hombre,Segunda,203,
+Intersex (Indeterminado),Primera,203,
+Intersex (Indeterminado),Segunda,203,
+Mujer,Primera,203,
+Mujer,Segunda,203,
+Desconocido,Primera,204,
+Desconocido,Segunda,204,
+Hombre,Primera,204,
+Hombre,Segunda,204,
+Intersex (Indeterminado),Primera,204,
+Intersex (Indeterminado),Segunda,204,
+Mujer,Primera,204,
+Mujer,Segunda,204,
+Desconocido,Primera,205,
+Desconocido,Segunda,205,
+Hombre,Primera,205,
+Hombre,Segunda,205,
+Intersex (Indeterminado),Primera,205,
+Intersex (Indeterminado),Segunda,205,
+Mujer,Primera,205,
+Mujer,Segunda,205,
+Desconocido,Primera,206,
+Desconocido,Segunda,206,
+Hombre,Primera,206,
+Hombre,Segunda,206,
+Intersex (Indeterminado),Primera,206,
+Intersex (Indeterminado),Segunda,206,
+Mujer,Primera,206,
+Mujer,Segunda,206,
+Desconocido,Primera,207,
+Desconocido,Segunda,207,
+Hombre,Primera,207,
+Hombre,Segunda,207,
+Intersex (Indeterminado),Primera,207,
+Intersex (Indeterminado),Segunda,207,
+Mujer,Primera,207,
+Mujer,Segunda,207,
+Desconocido,Primera,208,
+Desconocido,Segunda,208,
+Hombre,Primera,208,
+Hombre,Segunda,208,
+Intersex (Indeterminado),Primera,208,
+Intersex (Indeterminado),Segunda,208,
+Mujer,Primera,208,
+Mujer,Segunda,208,
+Desconocido,Primera,209,
+Desconocido,Segunda,209,
+Hombre,Primera,209,
+Hombre,Segunda,209,
+Intersex (Indeterminado),Primera,209,
+Intersex (Indeterminado),Segunda,209,
+Mujer,Primera,209,
+Mujer,Segunda,209,
+Desconocido,Primera,210,
+Desconocido,Segunda,210,
+Hombre,Primera,210,
+Hombre,Segunda,210,
+Intersex (Indeterminado),Primera,210,
+Intersex (Indeterminado),Segunda,210,
+Mujer,Primera,210,
+Mujer,Segunda,210,
+Desconocido,Primera,211,
+Desconocido,Segunda,211,
+Hombre,Primera,211,
+Hombre,Segunda,211,
+Intersex (Indeterminado),Primera,211,
+Intersex (Indeterminado),Segunda,211,
+Mujer,Primera,211,
+Mujer,Segunda,211,
+Desconocido,Primera,212,
+Desconocido,Segunda,212,
+Hombre,Primera,212,
+Hombre,Segunda,212,
+Intersex (Indeterminado),Primera,212,
+Intersex (Indeterminado),Segunda,212,
+Mujer,Primera,212,
+Mujer,Segunda,212,
+Desconocido,Primera,213,
+Desconocido,Segunda,213,
+Hombre,Primera,213,
+Hombre,Segunda,213,
+Intersex (Indeterminado),Primera,213,
+Intersex (Indeterminado),Segunda,213,
+Mujer,Primera,213,
+Mujer,Segunda,213,
+Desconocido,Primera,214,
+Desconocido,Segunda,214,
+Hombre,Primera,214,
+Hombre,Segunda,214,
+Intersex (Indeterminado),Primera,214,
+Intersex (Indeterminado),Segunda,214,
+Mujer,Primera,214,
+Mujer,Segunda,214,
+Desconocido,Primera,215,
+Desconocido,Segunda,215,
+Hombre,Primera,215,
+Hombre,Segunda,215,
+Intersex (Indeterminado),Primera,215,
+Intersex (Indeterminado),Segunda,215,
+Mujer,Primera,215,
+Mujer,Segunda,215,
+Desconocido,Primera,216,
+Desconocido,Segunda,216,
+Hombre,Primera,216,
+Hombre,Segunda,216,
+Intersex (Indeterminado),Primera,216,
+Intersex (Indeterminado),Segunda,216,
+Mujer,Primera,216,
+Mujer,Segunda,216,
+Desconocido,Primera,217,
+Desconocido,Segunda,217,
+Hombre,Primera,217,
+Hombre,Segunda,217,
+Intersex (Indeterminado),Primera,217,
+Intersex (Indeterminado),Segunda,217,
+Mujer,Primera,217,
+Mujer,Segunda,217,
+Desconocido,Primera,218,
+Desconocido,Segunda,218,
+Hombre,Primera,218,
+Hombre,Segunda,218,
+Intersex (Indeterminado),Primera,218,
+Intersex (Indeterminado),Segunda,218,
+Mujer,Primera,218,
+Mujer,Segunda,218,
+Desconocido,Primera,219,
+Desconocido,Segunda,219,
+Hombre,Primera,219,
+Hombre,Segunda,219,
+Intersex (Indeterminado),Primera,219,
+Intersex (Indeterminado),Segunda,219,
+Mujer,Primera,219,
+Mujer,Segunda,219,
+Desconocido,Primera,220,
+Desconocido,Segunda,220,
+Hombre,Primera,220,
+Hombre,Segunda,220,
+Intersex (Indeterminado),Primera,220,
+Intersex (Indeterminado),Segunda,220,
+Mujer,Primera,220,
+Mujer,Segunda,220,
+Desconocido,Primera,221,
+Desconocido,Segunda,221,
+Hombre,Primera,221,
+Hombre,Segunda,221,
+Intersex (Indeterminado),Primera,221,
+Intersex (Indeterminado),Segunda,221,
+Mujer,Primera,221,1.0
+Mujer,Segunda,221,1.0

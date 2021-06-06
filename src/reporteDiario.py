@@ -111,7 +111,8 @@ def prod5(fte, producto):
                                   'Casos nuevos totales': 'Casos nuevos totales',
                                   'Casos nuevos con sintomas': 'Casos nuevos con sintomas',
                                   'Casos nuevos sin sintomas*': 'Casos nuevos sin sintomas',
-                                  'Fallecidos totales': 'Fallecidos'}, inplace=True)
+                                  'Fallecidos totales': 'Fallecidos',
+                                  'Casos nuevos reportados por laboratorio': 'Casos nuevos sin notificar'}, inplace=True)
 
     # print(timestamp)
     last_row = df_input_file[df_input_file['Fecha'] == timestamp]
@@ -357,6 +358,7 @@ def prod3_13_14_26_27_47_75(fte, fte2, ft3):
         dataframe.rename(columns={'Casos nuevos sin notificar**': 'Casos nuevos sin notificar'}, inplace=True)
         dataframe.rename(columns={' Casos nuevos sin notificar**': 'Casos nuevos sin notificar'}, inplace=True)
         dataframe.rename(columns={'Casos  nuevos  sin  notificar**': 'Casos nuevos sin notificar'}, inplace=True)
+        dataframe.rename(columns={'Casos nuevos reportados por laboratorio': 'Casos nuevos sin notificar'}, inplace=True)
 
         dataframe.rename(columns={'Casos  confirmados recuperados': 'Casos confirmados recuperados'}, inplace=True)
         dataframe.rename(columns={' Casos confirmados recuperados': 'Casos confirmados recuperados'}, inplace=True)
@@ -701,6 +703,17 @@ def prod7_8(fte, producto):
     df_std = pd.melt(df, id_vars=identifiers, value_vars=variables, var_name='fecha', value_name='numero')
     df_std.to_csv(producto + '_std.csv', index=False)
 
+def prod87(fte, producto):
+    df = pd.read_csv(fte, dtype={'Codigo region': object})
+    regionName(df)
+    df = df.replace('-', '', regex=True)
+    df_t = df.T
+    df.to_csv(producto + '.csv', index=False)
+    df_t.to_csv(producto + '_T.csv', header=False)
+    identifiers = ['Region', 'Codigo region', 'Poblacion']
+    variables = [x for x in df.columns if x not in identifiers]
+    df_std = pd.melt(df, id_vars=identifiers, value_vars=variables, var_name='fecha', value_name='numero')
+    df_std.to_csv(producto + '_std.csv', index=False)
 
 def prod9_10(fte, producto):
     copyfile(fte, producto + '.csv')
@@ -838,9 +851,12 @@ def prod44(fte,fte2,producto):
 def prod49(fte, fte2, producto):
     # massage casos nuevos diarios
     df2 = pd.read_csv(fte2, header=None).T
-    df2 = df2[[0, 7]]
+    df2 = df2[[0, 7,19]]
     df2 = df2[1:]
     df2.rename(columns={0: 'Fecha', 7: 'casos'}, inplace=True)
+    df2.fillna(0,inplace=True)
+    df2['casos'] = pd.to_numeric(df2['casos'])-pd.to_numeric(df2[19])
+    df2 = df2[['Fecha','casos']]
 
     # massage tests diarios
     df = pd.read_csv(fte, header=None).T
@@ -883,6 +899,9 @@ if __name__ == '__main__':
     print('Generando producto 7')
     prod7_8('../input/ReporteDiario/PCR.csv', '../output/producto7/PCR')
 
+    print('Generando producto 87')
+    prod87('../input/ReporteDiario/Ag.csv', '../output/producto87/Ag')
+
     print('Generando producto 8')
     prod7_8('../input/ReporteDiario/UCI.csv', '../output/producto8/UCI')
 
@@ -914,7 +933,7 @@ if __name__ == '__main__':
     prod36('../input/ReporteDiario/ResidenciasSanitarias.csv', '../output/producto36/ResidenciasSanitarias')
 
     print('Generando producto 44')
-    prod44('1ufPPKzzJeYMnctgtZRTBwTIAzz21IVvjrxXyERz-jg0','EgresosHospitalarios!1:999', '../output/producto44/EgresosHospitalarios')
+    prod44('1DDpWYoXIh4ideazb8kiSuikSNfkjMQm28i6QHR5Gp-I','EgresosHospitalarios!1:999', '../output/producto44/EgresosHospitalarios')
 
     print('Generando producto 49')
     prod49('../input/ReporteDiario/PCREstablecimiento.csv','../output/producto5/TotalesNacionales.csv', '../output/producto49/Positividad_Diaria_Media')

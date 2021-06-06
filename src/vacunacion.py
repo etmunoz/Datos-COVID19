@@ -124,15 +124,24 @@ class vacunacion:
             print('vacunacion por sexo por edad')
             self.last_added = pd.read_csv('../input/Vacunacion/WORK_ARCHIVO_3.csv', sep=';', encoding='ISO-8859-1')
 
+            print('vacunacion por sexo por edad y FECHA')
+            self.last_edad_fecha = pd.read_csv('../input/Vacunacion/WORK_ARCHIVO_6.csv', sep=';', encoding='ISO-8859-1')
+
         elif self.indicador == 'vacunas_prioridad':
             print('reading files')
             print('vacunacion por grupos prioritarios')
-            self.last_added = pd.read_csv('../input/Vacunacion/WORK_ARCHIVO_4.csv', sep=';', encoding='ISO-8859-1')
+            self.last_added = pd.read_csv('../input/Vacunacion/WORK_ARCHIVO_8.csv', sep=';', encoding='ISO-8859-1')
 
         elif self.indicador == 'vacunas_comuna_edad':
             print('reading files')
             print('vacunacion por comuna por edad')
             self.last_added = pd.read_csv('../input/Vacunacion/WORK_ARCHIVO_2.csv', sep=';', encoding='ISO-8859-1')
+
+        elif self.indicador == 'vacunas_establecimiento':
+            print('reading files')
+            print('vacunacion por establecimiento y fabricante')
+            self.last_added = pd.read_csv('../input/Vacunacion/WORK_ARCHIVO_7.csv', sep=';', encoding='ISO-8859-1')
+
 
     def last_to_csv(self):
         if self.indicador == 'fabricante':
@@ -389,6 +398,8 @@ class vacunacion:
 
 
         elif self.indicador == 'vacunas_edad_sexo':
+
+            #Por región, totales
             self.last_added.rename(columns={'NOMBRE_REGION': 'Region',
                                             'SEXO': 'Sexo',
                                             'EDAD_ANOS': 'Edad',
@@ -448,13 +459,94 @@ class vacunacion:
             df_std.to_csv(self.output + '_std.csv', index=False)
             df_std.to_json(self.output + '.json', orient='values', force_ascii=False)
 
+            # Por fecha, totales
+            self.last_edad_fecha.rename(columns={'FECHA_INMUNIZACION': 'Fecha',
+                                            'EDAD_ANOS': 'Edad',
+                                            'SUM_of_1aDOSIS': 'Primera',
+                                            'SUM_of_2aDOSIS': 'Segunda'}, inplace=True)
+            self.last_edad_fecha['Fecha'] = pd.to_datetime(self.last_edad_fecha['Fecha'], format='%d/%m/%Y').dt.strftime("%Y-%m-%d")
+            self.last_edad_fecha.sort_values(by=['Fecha', 'Edad'], inplace=True)
+            self.last_edad_fecha.reset_index(drop=True,inplace=True)
+            self.last_edad_fecha.dropna(subset=['Fecha'],inplace=True)
+            columns_name = self.last_edad_fecha.columns.values
+            maxSE = self.last_edad_fecha[columns_name[0]].max()
+            minSE = self.last_edad_fecha[columns_name[0]].min()
+
+            print(minSE, maxSE)
+            lenSE = (pd.to_datetime(maxSE) - pd.to_datetime(minSE)).days + 1
+            startdate = pd.to_datetime(minSE)
+            date_list = pd.date_range(startdate, periods=lenSE).tolist()
+            date_list = [dt.datetime.strftime(x, "%Y-%m-%d") for x in date_list]
+            print(date_list)
+            self.last_edad_fecha['Total'] = self.last_edad_fecha['Primera'].fillna(0) + self.last_edad_fecha['Segunda'].fillna(0)
+
+
+
+            for k in [2, 3, 4]:
+                edades = self.last_edad_fecha[columns_name[1]].unique()
+                edades = edades[~np.isnan(edades)]
+                edades = np.sort(edades)
+                df = pd.DataFrame(np.zeros((len(edades), lenSE)))
+                df.insert(0, 'Edad', edades)
+                df.set_index('Edad',inplace=True)
+                dicts = {}
+                keys = range(lenSE)
+
+                for i in keys:
+                    dicts[i] = date_list[i]
+
+                df.rename(columns=dicts, inplace=True)
+                for index, row in self.last_edad_fecha.iterrows():
+                    df[row['Fecha']][row['Edad']] = row[k]
+                df.reset_index(inplace=True)
+
+
+                if k == 2:
+                    name = '../output/producto78/vacunados_edad_fecha' + '_1eraDosis.csv'
+                    df.to_csv(name, index=False)
+                    dft = df.T
+                    dft.to_csv(name.replace('.csv', '_T.csv'), header=False)
+                    identifiers = ['Edad']
+                    variables = [x for x in df.columns if x not in identifiers]
+                    outputDF2_std = pd.melt(df, id_vars=identifiers, value_vars=variables, var_name='Fecha',
+                                            value_name='Primera Dosis')
+                    outputDF2_std.to_csv(name.replace('.csv', '_std.csv'), index=False)
+
+                if k == 3:
+                    name = '../output/producto78/vacunados_edad_fecha' + '_2daDosis.csv'
+                    df.to_csv(name, index=False)
+                    dft = df.T
+                    dft.to_csv(name.replace('.csv', '_T.csv'), header=False)
+                    identifiers = ['Edad']
+                    variables = [x for x in df.columns if x not in identifiers]
+                    outputDF2_std = pd.melt(df, id_vars=identifiers, value_vars=variables, var_name='Fecha',
+                                            value_name='Segunda Dosis')
+                    outputDF2_std.to_csv(name.replace('.csv', '_std.csv'), index=False)
+
+                if k == 4:
+                    name = '../output/producto78/vacunados_edad_fecha' + '_total.csv'
+                    df.to_csv(name, index=False)
+                    dft = df.T
+                    dft.to_csv(name.replace('.csv', '_T.csv'), header=False)
+                    identifiers = ['Edad']
+                    variables = [x for x in df.columns if x not in identifiers]
+                    outputDF2_std = pd.melt(df, id_vars=identifiers, value_vars=variables, var_name='Fecha',
+                                            value_name='Total vacunados')
+                    outputDF2_std.to_csv(name.replace('.csv', '_std.csv'), index=False)
+
+
         elif self.indicador == 'vacunas_prioridad':
-            self.last_added.rename(columns={'Criterio': 'Grupo',
-                                            'Subcriterio': 'Subgrupo',
-                                            '1aDOSIS': 'Primera',
-                                            '2aDOSIS': 'Segunda'}, inplace=True)
+            self.last_added.rename(columns={'CRITERIO': 'Grupo',
+                                            'SUB_CRITERIO': 'Subgrupo',
+                                            '1aDOSIS1': 'Primera',
+                                            '2aDOSIS1': 'Segunda'}, inplace=True)
             self.last_added.sort_values(by=['Grupo', 'Subgrupo'], inplace=True)
             self.last_added = self.last_added[['Grupo', 'Subgrupo', 'Primera', 'Segunda']]
+            self.last_added['Primera'] = self.last_added.groupby(['Grupo', 'Subgrupo'])['Primera'].transform('sum')
+            self.last_added['Segunda'] = self.last_added.groupby(['Grupo', 'Subgrupo'])['Segunda'].transform('sum')
+            self.last_added = self.last_added[['Grupo', 'Subgrupo', 'Primera', 'Segunda']]
+            self.last_added.drop_duplicates(inplace=True)
+
 
             ##transformar en input
             df = pd.DataFrame()
@@ -467,7 +559,7 @@ class vacunacion:
                 df = df.append(df_grupo, ignore_index=True)
 
             new_col = ['Primera', 'Segunda', 'Primera', 'Segunda', 'Primera', 'Segunda', 'Primera', 'Segunda',
-                       'Primera', 'Segunda', 'Primera', 'Segunda', 'Primera', 'Segunda']
+                       'Primera', 'Segunda', 'Primera', 'Segunda']
             df.insert(0, column='Dosis', value=new_col)
             new_col = pd.DataFrame()
             for grupo in grupos[0]:
@@ -687,9 +779,10 @@ class vacunacion:
             self.last_added.rename(columns={'NOMBRE_REGION': 'region_residencia',
                                             'COD_COMUNA': 'Codigo comuna',
                                             'EDAD_ANOS': 'Edad',
-                                            'SUM_of_SUM_of_2aDOSIS': 'Segunda_comuna',
-                                            'SUM_of_SUM_of_1aDOSIS': 'Primera_comuna'}, inplace=True)
+                                            '2aDOSIS_RES': 'Segunda_comuna',
+                                            '1aDOSIS_RES': 'Primera_comuna'}, inplace=True)
             utils.regionDEISName(self.last_added)
+            self.last_added = self.last_added[['region_residencia','Codigo comuna','Edad','Primera_comuna','Segunda_comuna']]
 
             for k in range(len(self.last_added)):
                if self.last_added.loc[k, 'Codigo comuna'] != '':
@@ -716,7 +809,7 @@ class vacunacion:
 
             SE_comuna = self.last_added[columns_name[2]]
 
-            for k in [4,5]:
+            for k in [3,4]:
                 df = pd.DataFrame(np.zeros((len(comuna), lenSE)))
 
                 dicts = {}
@@ -787,7 +880,7 @@ class vacunacion:
                 outputDF2.drop(todrop.index, inplace=True)
 
 
-                if k == 4:
+                if k == 3:
                     name = self.output + '_1eraDosis.csv'
                     outputDF2.to_csv(name, index=False)
                     outputDF2_T = outputDF2.T
@@ -798,7 +891,7 @@ class vacunacion:
                     outputDF2_std = pd.melt(outputDF2, id_vars=identifiers, value_vars=variables, var_name='Edad',
                                             value_name='Primera Dosis')
                     outputDF2_std.to_csv(name.replace('.csv', '_std.csv'), index=False)
-                elif k == 5:
+                elif k == 4:
                     name = self.output +'_2daDosis.csv'
                     outputDF2.to_csv(name, index=False)
                     outputDF2_T = outputDF2.T
@@ -809,6 +902,58 @@ class vacunacion:
                     outputDF2_std = pd.melt(outputDF2, id_vars=identifiers, value_vars=variables, var_name='Edad',
                                             value_name='Segunda Dosis')
                     outputDF2_std.to_csv(name.replace('.csv', '_std.csv'), index=False)
+
+        elif self.indicador == 'vacunas_establecimiento':
+            self.last_added.rename(columns={'NOMBRE_ESTAB': 'Establecimiento',
+                                           'FECHA_INMUNIZACION':'Fecha',
+                                           'SUM_of_2aDOSIS': 'Segunda_comuna',
+                                           'SUM_of_1aDOSIS': 'Primera_comuna'}, inplace=True)
+            self.last_added = self.last_added.dropna(subset=['Fecha'])
+            self.last_added['Fecha'] = pd.to_datetime(self.last_added['Fecha'], format='%d/%m/%Y').dt.strftime(
+                "%Y-%m-%d")
+            self.last_added.sort_values(by=['Establecimiento', 'Fecha'], inplace=True)
+            self.last_added = self.last_added.dropna(subset=['Establecimiento'])
+            establecimientos = pd.DataFrame(self.last_added['Establecimiento'].unique())
+
+            # transformar
+            ## agrupar
+            self.last_added['Primera'] = self.last_added.groupby(['Establecimiento','Fecha'])['Primera_comuna'].transform('sum')
+            self.last_added['Segunda'] = self.last_added.groupby(['Establecimiento','Fecha'])['Segunda_comuna'].transform('sum')
+            self.last_added['Personas_vacunadas'] = self.last_added['Primera'] + self.last_added['Segunda']
+            self.last_added = self.last_added[['Establecimiento','Fecha','Personas_vacunadas']]
+            self.last_added.drop_duplicates(inplace=True)
+
+            ##llenar fechas para cada region y crear total
+            idx = pd.date_range(self.last_added['Fecha'].min(), self.last_added['Fecha'].max())
+            df = pd.DataFrame()
+            total = pd.DataFrame(columns=['Establecimiento','Fecha','Personas_vacunadas'])
+            total = utils.fill_in_missing_dates(total, 'Fecha', 0, idx)
+            total["Establecimiento"] = total["Establecimiento"].replace({0: 'Total'})
+            for establecimiento in establecimientos[0]:
+                df_establecimiento = self.last_added.loc[self.last_added['Establecimiento'] == establecimiento]
+                df_establecimiento = utils.fill_in_missing_dates(df_establecimiento, 'Fecha', 0, idx)
+                df_establecimiento["Establecimiento"] = df_establecimiento["Establecimiento"].replace({0: establecimiento})
+                total['Personas_vacunadas'] = df_establecimiento['Personas_vacunadas'] + total['Personas_vacunadas']
+                df = df.append(df_establecimiento, ignore_index=True)
+            total = total.append(df, ignore_index=True)
+            total['Fecha'] = total['Fecha'].dt.strftime("%Y-%m-%d")
+            self.last_added = total
+
+            ##transformar en input
+
+            identifiers = ['Establecimiento','Fecha']
+            variables = [x for x in self.last_added.columns if x not in identifiers]
+
+            self.last_added = self.last_added[identifiers + variables]
+            self.last_added.to_csv(self.output + '.csv', index=False)
+
+            df_t = self.last_added.T
+            df_t.to_csv(self.output + '_t.csv', header=False)
+
+            df_std = pd.melt(self.last_added, id_vars=identifiers, value_vars=variables, var_name=['Dosis'],
+                             value_name='Cantidad')
+
+            df_std.to_csv(self.output + '_std.csv', index=False)
 
 if __name__ == '__main__':
     print('Actualizamos campana de vacunacion por region')
@@ -853,5 +998,10 @@ if __name__ == '__main__':
 
     print('Actualizamos camapaña de vacunación por edad y comuna')
     my_vacunas = vacunacion('../output/producto81/vacunacion_comuna_edad', 'vacunas_comuna_edad')
+    my_vacunas.get_last()
+    my_vacunas.last_to_csv()
+
+    print('Actualizamos camapaña de vacunación por establecimiento y fabricante')
+    my_vacunas = vacunacion('../output/producto83/vacunacion_establecimiento', 'vacunas_establecimiento')
     my_vacunas.get_last()
     my_vacunas.last_to_csv()

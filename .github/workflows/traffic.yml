@@ -2,11 +2,11 @@ name: traffic_daily_processing
 
 # Controls when the action will run. Triggers the workflow on push or pull request 
 # events but only for the master branch
-on:
+on: workflow_dispatch
     #push
     # github runners are on GMT
-    schedule:
-      - cron:  '49 23 * * *'
+
+
 
 jobs:
   # This workflow contains a single job called "actualiza..."
@@ -37,9 +37,6 @@ jobs:
       - uses: stefanzweifel/git-auto-commit-action@v4.1.1
         with:
           commit_message: "Added data from traffic api to repo input"
-
-        # Optional glob pattern of files which should be added to the commit
-          file_pattern: input/*/*.csv
 
         # Optional local file path to the repository
           repository: .

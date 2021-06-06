@@ -1,22 +1,6 @@
 Grupo,Dosis,Subgrupo,Cantidad
-Funcionarios Públicos,Primera,Otros funcionarios públicos,
-Funcionarios Públicos,Segunda,Otros funcionarios públicos,
-Personal de salud,Primera,Otros funcionarios públicos,
-Personal de salud,Segunda,Otros funcionarios públicos,
-Personas Servicios esenciales del estado,Primera,Otros funcionarios públicos,
-Personas Servicios esenciales del estado,Segunda,Otros funcionarios públicos,
-Personas Servicios infraestructura crítica,Primera,Otros funcionarios públicos,
-Personas Servicios infraestructura crítica,Segunda,Otros funcionarios públicos,
-Personas en centros cerrados,Primera,Otros funcionarios públicos,
-Personas en centros cerrados,Segunda,Otros funcionarios públicos,
-Población Sana,Primera,Otros funcionarios públicos,
-Población Sana,Segunda,Otros funcionarios públicos,
-Población vulnerable,Primera,Otros funcionarios públicos,
-Población vulnerable,Segunda,Otros funcionarios públicos,
-Funcionarios Públicos,Primera,Adm. apoyo no clinico FFAA y de orden,
-Funcionarios Públicos,Segunda,Adm. apoyo no clinico FFAA y de orden,
-Personal de salud,Primera,Adm. apoyo no clinico FFAA y de orden,4780.0
-Personal de salud,Segunda,Adm. apoyo no clinico FFAA y de orden,3512.0
+Personal de salud,Primera,Adm. apoyo no clinico FFAA y de orden,5436.0
+Personal de salud,Segunda,Adm. apoyo no clinico FFAA y de orden,5236.0
 Personas Servicios esenciales del estado,Primera,Adm. apoyo no clinico FFAA y de orden,
 Personas Servicios esenciales del estado,Segunda,Adm. apoyo no clinico FFAA y de orden,
 Personas Servicios infraestructura crítica,Primera,Adm. apoyo no clinico FFAA y de orden,
@@ -27,10 +11,8 @@ Población Sana,Primera,Adm. apoyo no clinico FFAA y de orden,
 Población Sana,Segunda,Adm. apoyo no clinico FFAA y de orden,
 Población vulnerable,Primera,Adm. apoyo no clinico FFAA y de orden,
 Población vulnerable,Segunda,Adm. apoyo no clinico FFAA y de orden,
-Funcionarios Públicos,Primera,Administrativo de apoyo no clinico sector privado,
-Funcionarios Públicos,Segunda,Administrativo de apoyo no clinico sector privado,
-Personal de salud,Primera,Administrativo de apoyo no clinico sector privado,24375.0
-Personal de salud,Segunda,Administrativo de apoyo no clinico sector privado,18857.0
+Personal de salud,Primera,Administrativo de apoyo no clinico sector privado,27314.0
+Personal de salud,Segunda,Administrativo de apoyo no clinico sector privado,26405.0
 Personas Servicios esenciales del estado,Primera,Administrativo de apoyo no clinico sector privado,
 Personas Servicios esenciales del estado,Segunda,Administrativo de apoyo no clinico sector privado,
 Personas Servicios infraestructura crítica,Primera,Administrativo de apoyo no clinico sector privado,
@@ -41,10 +23,8 @@ Población Sana,Primera,Administrativo de apoyo no clinico sector privado,
 Población Sana,Segunda,Administrativo de apoyo no clinico sector privado,
 Población vulnerable,Primera,Administrativo de apoyo no clinico sector privado,
 Población vulnerable,Segunda,Administrativo de apoyo no clinico sector privado,
-Funcionarios Públicos,Primera,Administrativo de apoyo no clinico sector público,
-Funcionarios Públicos,Segunda,Administrativo de apoyo no clinico sector público,
-Personal de salud,Primera,Administrativo de apoyo no clinico sector público,28838.0
-Personal de salud,Segunda,Administrativo de apoyo no clinico sector público,23313.0
+Personal de salud,Primera,Administrativo de apoyo no clinico sector público,32285.0
+Personal de salud,Segunda,Administrativo de apoyo no clinico sector público,31231.0
 Personas Servicios esenciales del estado,Primera,Administrativo de apoyo no clinico sector público,
 Personas Servicios esenciales del estado,Segunda,Administrativo de apoyo no clinico sector público,
 Personas Servicios infraestructura crítica,Primera,Administrativo de apoyo no clinico sector público,
@@ -55,10 +35,8 @@ Población Sana,Primera,Administrativo de apoyo no clinico sector público,
 Población Sana,Segunda,Administrativo de apoyo no clinico sector público,
 Población vulnerable,Primera,Administrativo de apoyo no clinico sector público,
 Población vulnerable,Segunda,Administrativo de apoyo no clinico sector público,
-Funcionarios Públicos,Primera,Alumnos en práctica sector público,
-Funcionarios Públicos,Segunda,Alumnos en práctica sector público,
-Personal de salud,Primera,Alumnos en práctica sector público,19865.0
-Personal de salud,Segunda,Alumnos en práctica sector público,12730.0
+Personal de salud,Primera,Alumnos en práctica sector público,30743.0
+Personal de salud,Segunda,Alumnos en práctica sector público,27636.0
 Personas Servicios esenciales del estado,Primera,Alumnos en práctica sector público,
 Personas Servicios esenciales del estado,Segunda,Alumnos en práctica sector público,
 Personas Servicios infraestructura crítica,Primera,Alumnos en práctica sector público,
@@ -69,10 +47,8 @@ Población Sana,Primera,Alumnos en práctica sector público,
 Población Sana,Segunda,Alumnos en práctica sector público,
 Población vulnerable,Primera,Alumnos en práctica sector público,
 Población vulnerable,Segunda,Alumnos en práctica sector público,
-Funcionarios Públicos,Primera,"Alumnos en práctica, sector privado",
-Funcionarios Públicos,Segunda,"Alumnos en práctica, sector privado",
-Personal de salud,Primera,"Alumnos en práctica, sector privado",11982.0
-Personal de salud,Segunda,"Alumnos en práctica, sector privado",6812.0
+Personal de salud,Primera,"Alumnos en práctica, sector privado",16272.0
+Personal de salud,Segunda,"Alumnos en práctica, sector privado",15296.0
 Personas Servicios esenciales del estado,Primera,"Alumnos en práctica, sector privado",
 Personas Servicios esenciales del estado,Segunda,"Alumnos en práctica, sector privado",
 Personas Servicios infraestructura crítica,Primera,"Alumnos en práctica, sector privado",
@@ -83,10 +59,8 @@ Población Sana,Primera,"Alumnos en práctica, sector privado",
 Población Sana,Segunda,"Alumnos en práctica, sector privado",
 Población vulnerable,Primera,"Alumnos en práctica, sector privado",
 Población vulnerable,Segunda,"Alumnos en práctica, sector privado",
-Funcionarios Públicos,Primera,FFAA y de orden,
-Funcionarios Públicos,Segunda,FFAA y de orden,
-Personal de salud,Primera,FFAA y de orden,25660.0
-Personal de salud,Segunda,FFAA y de orden,21317.0
+Personal de salud,Primera,FFAA y de orden,27531.0
+Personal de salud,Segunda,FFAA y de orden,26662.0
 Personas Servicios esenciales del estado,Primera,FFAA y de orden,
 Personas Servicios esenciales del estado,Segunda,FFAA y de orden,
 Personas Servicios infraestructura crítica,Primera,FFAA y de orden,
@@ -97,10 +71,8 @@ Población Sana,Primera,FFAA y de orden,
 Población Sana,Segunda,FFAA y de orden,
 Población vulnerable,Primera,FFAA y de orden,
 Población vulnerable,Segunda,FFAA y de orden,
-Funcionarios Públicos,Primera,Privado,
-Funcionarios Públicos,Segunda,Privado,
-Personal de salud,Primera,Privado,201529.0
-Personal de salud,Segunda,Privado,168420.0
+Personal de salud,Primera,Privado,217751.0
+Personal de salud,Segunda,Privado,213521.0
 Personas Servicios esenciales del estado,Primera,Privado,
 Personas Servicios esenciales del estado,Segunda,Privado,
 Personas Servicios infraestructura crítica,Primera,Privado,
@@ -111,10 +83,8 @@ Población Sana,Primera,Privado,
 Población Sana,Segunda,Privado,
 Población vulnerable,Primera,Privado,
 Población vulnerable,Segunda,Privado,
-Funcionarios Públicos,Primera,Público,
-Funcionarios Públicos,Segunda,Público,
-Personal de salud,Primera,Público,318511.0
-Personal de salud,Segunda,Público,278645.0
+Personal de salud,Primera,Público,343831.0
+Personal de salud,Segunda,Público,332645.0
 Personas Servicios esenciales del estado,Primera,Público,
 Personas Servicios esenciales del estado,Segunda,Público,
 Personas Servicios infraestructura crítica,Primera,Público,
@@ -125,12 +95,10 @@ Población Sana,Primera,Público,
 Población Sana,Segunda,Público,
 Población vulnerable,Primera,Público,
 Población vulnerable,Segunda,Público,
-Funcionarios Públicos,Primera,Administración del Estado,
-Funcionarios Públicos,Segunda,Administración del Estado,
 Personal de salud,Primera,Administración del Estado,
 Personal de salud,Segunda,Administración del Estado,
-Personas Servicios esenciales del estado,Primera,Administración del Estado,151462.0
-Personas Servicios esenciales del estado,Segunda,Administración del Estado,111119.0
+Personas Servicios esenciales del estado,Primera,Administración del Estado,173342.0
+Personas Servicios esenciales del estado,Segunda,Administración del Estado,169826.0
 Personas Servicios infraestructura crítica,Primera,Administración del Estado,
 Personas Servicios infraestructura crítica,Segunda,Administración del Estado,
 Personas en centros cerrados,Primera,Administración del Estado,
@@ -139,26 +107,34 @@ Población Sana,Primera,Administración del Estado,
 Población Sana,Segunda,Administración del Estado,
 Población vulnerable,Primera,Administración del Estado,
 Población vulnerable,Segunda,Administración del Estado,
-Funcionarios Públicos,Primera,Atencion directa a la Ciudada,
-Funcionarios Públicos,Segunda,Atencion directa a la Ciudada,
-Personal de salud,Primera,Atencion directa a la Ciudada,
-Personal de salud,Segunda,Atencion directa a la Ciudada,
-Personas Servicios esenciales del estado,Primera,Atencion directa a la Ciudada,193885.0
-Personas Servicios esenciales del estado,Segunda,Atencion directa a la Ciudada,105985.0
-Personas Servicios infraestructura crítica,Primera,Atencion directa a la Ciudada,
-Personas Servicios infraestructura crítica,Segunda,Atencion directa a la Ciudada,
-Personas en centros cerrados,Primera,Atencion directa a la Ciudada,
-Personas en centros cerrados,Segunda,Atencion directa a la Ciudada,
-Población Sana,Primera,Atencion directa a la Ciudada,
-Población Sana,Segunda,Atencion directa a la Ciudada,
-Población vulnerable,Primera,Atencion directa a la Ciudada,
-Población vulnerable,Segunda,Atencion directa a la Ciudada,
-Funcionarios Públicos,Primera,Carabineros- PDI,
-Funcionarios Públicos,Segunda,Carabineros- PDI,
+Personal de salud,Primera,Atencion directa a la Ciudadania,
+Personal de salud,Segunda,Atencion directa a la Ciudadania,
+Personas Servicios esenciales del estado,Primera,Atencion directa a la Ciudadania,0.0
+Personas Servicios esenciales del estado,Segunda,Atencion directa a la Ciudadania,0.0
+Personas Servicios infraestructura crítica,Primera,Atencion directa a la Ciudadania,
+Personas Servicios infraestructura crítica,Segunda,Atencion directa a la Ciudadania,
+Personas en centros cerrados,Primera,Atencion directa a la Ciudadania,
+Personas en centros cerrados,Segunda,Atencion directa a la Ciudadania,
+Población Sana,Primera,Atencion directa a la Ciudadania,
+Población Sana,Segunda,Atencion directa a la Ciudadania,
+Población vulnerable,Primera,Atencion directa a la Ciudadania,
+Población vulnerable,Segunda,Atencion directa a la Ciudadania,
+Personal de salud,Primera,Atencion directa a la Ciudadanía,
+Personal de salud,Segunda,Atencion directa a la Ciudadanía,
+Personas Servicios esenciales del estado,Primera,Atencion directa a la Ciudadanía,322373.0
+Personas Servicios esenciales del estado,Segunda,Atencion directa a la Ciudadanía,305950.0
+Personas Servicios infraestructura crítica,Primera,Atencion directa a la Ciudadanía,
+Personas Servicios infraestructura crítica,Segunda,Atencion directa a la Ciudadanía,
+Personas en centros cerrados,Primera,Atencion directa a la Ciudadanía,
+Personas en centros cerrados,Segunda,Atencion directa a la Ciudadanía,
+Población Sana,Primera,Atencion directa a la Ciudadanía,
+Población Sana,Segunda,Atencion directa a la Ciudadanía,
+Población vulnerable,Primera,Atencion directa a la Ciudadanía,
+Población vulnerable,Segunda,Atencion directa a la Ciudadanía,
 Personal de salud,Primera,Carabineros- PDI,
 Personal de salud,Segunda,Carabineros- PDI,
-Personas Servicios esenciales del estado,Primera,Carabineros- PDI,51689.0
-Personas Servicios esenciales del estado,Segunda,Carabineros- PDI,41493.0
+Personas Servicios esenciales del estado,Primera,Carabineros- PDI,54759.0
+Personas Servicios esenciales del estado,Segunda,Carabineros- PDI,53088.0
 Personas Servicios infraestructura crítica,Primera,Carabineros- PDI,
 Personas Servicios infraestructura crítica,Segunda,Carabineros- PDI,
 Personas en centros cerrados,Primera,Carabineros- PDI,
@@ -167,12 +143,10 @@ Población Sana,Primera,Carabineros- PDI,
 Población Sana,Segunda,Carabineros- PDI,
 Población vulnerable,Primera,Carabineros- PDI,
 Población vulnerable,Segunda,Carabineros- PDI,
-Funcionarios Públicos,Primera,Farmacias y laboratorios,
-Funcionarios Públicos,Segunda,Farmacias y laboratorios,
 Personal de salud,Primera,Farmacias y laboratorios,
 Personal de salud,Segunda,Farmacias y laboratorios,
-Personas Servicios esenciales del estado,Primera,Farmacias y laboratorios,34016.0
-Personas Servicios esenciales del estado,Segunda,Farmacias y laboratorios,21990.0
+Personas Servicios esenciales del estado,Primera,Farmacias y laboratorios,38801.0
+Personas Servicios esenciales del estado,Segunda,Farmacias y laboratorios,38162.0
 Personas Servicios infraestructura crítica,Primera,Farmacias y laboratorios,
 Personas Servicios infraestructura crítica,Segunda,Farmacias y laboratorios,
 Personas en centros cerrados,Primera,Farmacias y laboratorios,
@@ -181,12 +155,10 @@ Población Sana,Primera,Farmacias y laboratorios,
 Población Sana,Segunda,Farmacias y laboratorios,
 Población vulnerable,Primera,Farmacias y laboratorios,
 Población vulnerable,Segunda,Farmacias y laboratorios,
-Funcionarios Públicos,Primera,Fuerzas Armadas,
-Funcionarios Públicos,Segunda,Fuerzas Armadas,
 Personal de salud,Primera,Fuerzas Armadas,
 Personal de salud,Segunda,Fuerzas Armadas,
-Personas Servicios esenciales del estado,Primera,Fuerzas Armadas,44537.0
-Personas Servicios esenciales del estado,Segunda,Fuerzas Armadas,29440.0
+Personas Servicios esenciales del estado,Primera,Fuerzas Armadas,54318.0
+Personas Servicios esenciales del estado,Segunda,Fuerzas Armadas,52175.0
 Personas Servicios infraestructura crítica,Primera,Fuerzas Armadas,
 Personas Servicios infraestructura crítica,Segunda,Fuerzas Armadas,
 Personas en centros cerrados,Primera,Fuerzas Armadas,
@@ -195,12 +167,10 @@ Población Sana,Primera,Fuerzas Armadas,
 Población Sana,Segunda,Fuerzas Armadas,
 Población vulnerable,Primera,Fuerzas Armadas,
 Población vulnerable,Segunda,Fuerzas Armadas,
-Funcionarios Públicos,Primera,Gendarmería,
-Funcionarios Públicos,Segunda,Gendarmería,
 Personal de salud,Primera,Gendarmería,
 Personal de salud,Segunda,Gendarmería,
-Personas Servicios esenciales del estado,Primera,Gendarmería,12603.0
-Personas Servicios esenciales del estado,Segunda,Gendarmería,4012.0
+Personas Servicios esenciales del estado,Primera,Gendarmería,14585.0
+Personas Servicios esenciales del estado,Segunda,Gendarmería,13986.0
 Personas Servicios infraestructura crítica,Primera,Gendarmería,
 Personas Servicios infraestructura crítica,Segunda,Gendarmería,
 Personas en centros cerrados,Primera,Gendarmería,
@@ -209,232 +179,174 @@ Población Sana,Primera,Gendarmería,
 Población Sana,Segunda,Gendarmería,
 Población vulnerable,Primera,Gendarmería,
 Población vulnerable,Segunda,Gendarmería,
-Funcionarios Públicos,Primera,Personal . crítico de Gobierno,
-Funcionarios Públicos,Segunda,Personal . crítico de Gobierno,
-Personal de salud,Primera,Personal . crítico de Gobierno,
-Personal de salud,Segunda,Personal . crítico de Gobierno,
-Personas Servicios esenciales del estado,Primera,Personal . crítico de Gobierno,
-Personas Servicios esenciales del estado,Segunda,Personal . crítico de Gobierno,
-Personas Servicios infraestructura crítica,Primera,Personal . crítico de Gobierno,
-Personas Servicios infraestructura crítica,Segunda,Personal . crítico de Gobierno,
-Personas en centros cerrados,Primera,Personal . crítico de Gobierno,
-Personas en centros cerrados,Segunda,Personal . crítico de Gobierno,
-Población Sana,Primera,Personal . crítico de Gobierno,
-Población Sana,Segunda,Personal . crítico de Gobierno,
-Población vulnerable,Primera,Personal . crítico de Gobierno,
-Población vulnerable,Segunda,Personal . crítico de Gobierno,
-Funcionarios Públicos,Primera,Personal de funciones en empresas de transporte de personas,
-Funcionarios Públicos,Segunda,Personal de funciones en empresas de transporte de personas,
-Personal de salud,Primera,Personal de funciones en empresas de transporte de personas,
-Personal de salud,Segunda,Personal de funciones en empresas de transporte de personas,
-Personas Servicios esenciales del estado,Primera,Personal de funciones en empresas de transporte de personas,
-Personas Servicios esenciales del estado,Segunda,Personal de funciones en empresas de transporte de personas,
-Personas Servicios infraestructura crítica,Primera,Personal de funciones en empresas de transporte de personas,90988.0
-Personas Servicios infraestructura crítica,Segunda,Personal de funciones en empresas de transporte de personas,9089.0
-Personas en centros cerrados,Primera,Personal de funciones en empresas de transporte de personas,
-Personas en centros cerrados,Segunda,Personal de funciones en empresas de transporte de personas,
-Población Sana,Primera,Personal de funciones en empresas de transporte de personas,
-Población Sana,Segunda,Personal de funciones en empresas de transporte de personas,
-Población vulnerable,Primera,Personal de funciones en empresas de transporte de personas,
-Población vulnerable,Segunda,Personal de funciones en empresas de transporte de personas,
-Funcionarios Públicos,Primera,Personas  funciones en transporte de productos criticos,
-Funcionarios Públicos,Segunda,Personas  funciones en transporte de productos criticos,
-Personal de salud,Primera,Personas  funciones en transporte de productos criticos,
-Personal de salud,Segunda,Personas  funciones en transporte de productos criticos,
-Personas Servicios esenciales del estado,Primera,Personas  funciones en transporte de productos criticos,
-Personas Servicios esenciales del estado,Segunda,Personas  funciones en transporte de productos criticos,
-Personas Servicios infraestructura crítica,Primera,Personas  funciones en transporte de productos criticos,35658.0
-Personas Servicios infraestructura crítica,Segunda,Personas  funciones en transporte de productos criticos,1244.0
-Personas en centros cerrados,Primera,Personas  funciones en transporte de productos criticos,
-Personas en centros cerrados,Segunda,Personas  funciones en transporte de productos criticos,
-Población Sana,Primera,Personas  funciones en transporte de productos criticos,
-Población Sana,Segunda,Personas  funciones en transporte de productos criticos,
-Población vulnerable,Primera,Personas  funciones en transporte de productos criticos,
-Población vulnerable,Segunda,Personas  funciones en transporte de productos criticos,
-Funcionarios Públicos,Primera,Personas de funciones en empresas de servicios básicos,
-Funcionarios Públicos,Segunda,Personas de funciones en empresas de servicios básicos,
-Personal de salud,Primera,Personas de funciones en empresas de servicios básicos,
-Personal de salud,Segunda,Personas de funciones en empresas de servicios básicos,
-Personas Servicios esenciales del estado,Primera,Personas de funciones en empresas de servicios básicos,
-Personas Servicios esenciales del estado,Segunda,Personas de funciones en empresas de servicios básicos,
-Personas Servicios infraestructura crítica,Primera,Personas de funciones en empresas de servicios básicos,133478.0
-Personas Servicios infraestructura crítica,Segunda,Personas de funciones en empresas de servicios básicos,13364.0
-Personas en centros cerrados,Primera,Personas de funciones en empresas de servicios básicos,
-Personas en centros cerrados,Segunda,Personas de funciones en empresas de servicios básicos,
-Población Sana,Primera,Personas de funciones en empresas de servicios básicos,
-Población Sana,Segunda,Personas de funciones en empresas de servicios básicos,
-Población vulnerable,Primera,Personas de funciones en empresas de servicios básicos,
-Población vulnerable,Segunda,Personas de funciones en empresas de servicios básicos,
-Funcionarios Públicos,Primera,"Personas en funciones en ONEMI, CONAF, Bomberos",
-Funcionarios Públicos,Segunda,"Personas en funciones en ONEMI, CONAF, Bomberos",
-Personal de salud,Primera,"Personas en funciones en ONEMI, CONAF, Bomberos",
-Personal de salud,Segunda,"Personas en funciones en ONEMI, CONAF, Bomberos",
-Personas Servicios esenciales del estado,Primera,"Personas en funciones en ONEMI, CONAF, Bomberos",
-Personas Servicios esenciales del estado,Segunda,"Personas en funciones en ONEMI, CONAF, Bomberos",
-Personas Servicios infraestructura crítica,Primera,"Personas en funciones en ONEMI, CONAF, Bomberos",28664.0
-Personas Servicios infraestructura crítica,Segunda,"Personas en funciones en ONEMI, CONAF, Bomberos",15218.0
-Personas en centros cerrados,Primera,"Personas en funciones en ONEMI, CONAF, Bomberos",
-Personas en centros cerrados,Segunda,"Personas en funciones en ONEMI, CONAF, Bomberos",
-Población Sana,Primera,"Personas en funciones en ONEMI, CONAF, Bomberos",
-Población Sana,Segunda,"Personas en funciones en ONEMI, CONAF, Bomberos",
-Población vulnerable,Primera,"Personas en funciones en ONEMI, CONAF, Bomberos",
-Población vulnerable,Segunda,"Personas en funciones en ONEMI, CONAF, Bomberos",
-Funcionarios Públicos,Primera,Personas vacunadas por estudio clínico,
-Funcionarios Públicos,Segunda,Personas vacunadas por estudio clínico,
+Personal de salud,Primera,"P. funciones en ONEMI, CONAF, Bomberos",
+Personal de salud,Segunda,"P. funciones en ONEMI, CONAF, Bomberos",
+Personas Servicios esenciales del estado,Primera,"P. funciones en ONEMI, CONAF, Bomberos",
+Personas Servicios esenciales del estado,Segunda,"P. funciones en ONEMI, CONAF, Bomberos",
+Personas Servicios infraestructura crítica,Primera,"P. funciones en ONEMI, CONAF, Bomberos",30832.0
+Personas Servicios infraestructura crítica,Segunda,"P. funciones en ONEMI, CONAF, Bomberos",30193.0
+Personas en centros cerrados,Primera,"P. funciones en ONEMI, CONAF, Bomberos",
+Personas en centros cerrados,Segunda,"P. funciones en ONEMI, CONAF, Bomberos",
+Población Sana,Primera,"P. funciones en ONEMI, CONAF, Bomberos",
+Población Sana,Segunda,"P. funciones en ONEMI, CONAF, Bomberos",
+Población vulnerable,Primera,"P. funciones en ONEMI, CONAF, Bomberos",
+Población vulnerable,Segunda,"P. funciones en ONEMI, CONAF, Bomberos",
+Personal de salud,Primera,P. funciones en empresas de servicios básicos,
+Personal de salud,Segunda,P. funciones en empresas de servicios básicos,
+Personas Servicios esenciales del estado,Primera,P. funciones en empresas de servicios básicos,
+Personas Servicios esenciales del estado,Segunda,P. funciones en empresas de servicios básicos,
+Personas Servicios infraestructura crítica,Primera,P. funciones en empresas de servicios básicos,344889.0
+Personas Servicios infraestructura crítica,Segunda,P. funciones en empresas de servicios básicos,321640.0
+Personas en centros cerrados,Primera,P. funciones en empresas de servicios básicos,
+Personas en centros cerrados,Segunda,P. funciones en empresas de servicios básicos,
+Población Sana,Primera,P. funciones en empresas de servicios básicos,
+Población Sana,Segunda,P. funciones en empresas de servicios básicos,
+Población vulnerable,Primera,P. funciones en empresas de servicios básicos,
+Población vulnerable,Segunda,P. funciones en empresas de servicios básicos,
+Personal de salud,Primera,P. funciones en empresas de transporte de personas,
+Personal de salud,Segunda,P. funciones en empresas de transporte de personas,
+Personas Servicios esenciales del estado,Primera,P. funciones en empresas de transporte de personas,
+Personas Servicios esenciales del estado,Segunda,P. funciones en empresas de transporte de personas,
+Personas Servicios infraestructura crítica,Primera,P. funciones en empresas de transporte de personas,124194.0
+Personas Servicios infraestructura crítica,Segunda,P. funciones en empresas de transporte de personas,120078.0
+Personas en centros cerrados,Primera,P. funciones en empresas de transporte de personas,
+Personas en centros cerrados,Segunda,P. funciones en empresas de transporte de personas,
+Población Sana,Primera,P. funciones en empresas de transporte de personas,
+Población Sana,Segunda,P. funciones en empresas de transporte de personas,
+Población vulnerable,Primera,P. funciones en empresas de transporte de personas,
+Población vulnerable,Segunda,P. funciones en empresas de transporte de personas,
+Personal de salud,Primera,P. funciones en transporte de productos criticos,
+Personal de salud,Segunda,P. funciones en transporte de productos criticos,
+Personas Servicios esenciales del estado,Primera,P. funciones en transporte de productos criticos,
+Personas Servicios esenciales del estado,Segunda,P. funciones en transporte de productos criticos,
+Personas Servicios infraestructura crítica,Primera,P. funciones en transporte de productos criticos,68709.0
+Personas Servicios infraestructura crítica,Segunda,P. funciones en transporte de productos criticos,65527.0
+Personas en centros cerrados,Primera,P. funciones en transporte de productos criticos,
+Personas en centros cerrados,Segunda,P. funciones en transporte de productos criticos,
+Población Sana,Primera,P. funciones en transporte de productos criticos,
+Población Sana,Segunda,P. funciones en transporte de productos criticos,
+Población vulnerable,Primera,P. funciones en transporte de productos criticos,
+Población vulnerable,Segunda,P. funciones en transporte de productos criticos,
 Personal de salud,Primera,Personas vacunadas por estudio clínico,
 Personal de salud,Segunda,Personas vacunadas por estudio clínico,
 Personas Servicios esenciales del estado,Primera,Personas vacunadas por estudio clínico,
 Personas Servicios esenciales del estado,Segunda,Personas vacunadas por estudio clínico,
-Personas Servicios infraestructura crítica,Primera,Personas vacunadas por estudio clínico,
-Personas Servicios infraestructura crítica,Segunda,Personas vacunadas por estudio clínico,
+Personas Servicios infraestructura crítica,Primera,Personas vacunadas por estudio clínico,5.0
+Personas Servicios infraestructura crítica,Segunda,Personas vacunadas por estudio clínico,0.0
 Personas en centros cerrados,Primera,Personas vacunadas por estudio clínico,
 Personas en centros cerrados,Segunda,Personas vacunadas por estudio clínico,
 Población Sana,Primera,Personas vacunadas por estudio clínico,
 Población Sana,Segunda,Personas vacunadas por estudio clínico,
 Población vulnerable,Primera,Personas vacunadas por estudio clínico,
 Población vulnerable,Segunda,Personas vacunadas por estudio clínico,
-Funcionarios Públicos,Primera,Profesores y Parvularias,
-Funcionarios Públicos,Segunda,Profesores y Parvularias,
 Personal de salud,Primera,Profesores y Parvularias,
 Personal de salud,Segunda,Profesores y Parvularias,
 Personas Servicios esenciales del estado,Primera,Profesores y Parvularias,
 Personas Servicios esenciales del estado,Segunda,Profesores y Parvularias,
-Personas Servicios infraestructura crítica,Primera,Profesores y Parvularias,337534.0
-Personas Servicios infraestructura crítica,Segunda,Profesores y Parvularias,160501.0
+Personas Servicios infraestructura crítica,Primera,Profesores y Parvularias,352914.0
+Personas Servicios infraestructura crítica,Segunda,Profesores y Parvularias,347473.0
 Personas en centros cerrados,Primera,Profesores y Parvularias,
 Personas en centros cerrados,Segunda,Profesores y Parvularias,
 Población Sana,Primera,Profesores y Parvularias,
 Población Sana,Segunda,Profesores y Parvularias,
 Población vulnerable,Primera,Profesores y Parvularias,
 Población vulnerable,Segunda,Profesores y Parvularias,
-Funcionarios Públicos,Primera,Recolectores de basura,
-Funcionarios Públicos,Segunda,Recolectores de basura,
-Personal de salud,Primera,Recolectores de basura,
-Personal de salud,Segunda,Recolectores de basura,
-Personas Servicios esenciales del estado,Primera,Recolectores de basura,
-Personas Servicios esenciales del estado,Segunda,Recolectores de basura,
-Personas Servicios infraestructura crítica,Primera,Recolectores de basura,
-Personas Servicios infraestructura crítica,Segunda,Recolectores de basura,
-Personas en centros cerrados,Primera,Recolectores de basura,
-Personas en centros cerrados,Segunda,Recolectores de basura,
-Población Sana,Primera,Recolectores de basura,
-Población Sana,Segunda,Recolectores de basura,
-Población vulnerable,Primera,Recolectores de basura,
-Población vulnerable,Segunda,Recolectores de basura,
-Funcionarios Públicos,Primera,Establecimientos de Larga Estadia de Adultos Mayores (ELEAM),
-Funcionarios Públicos,Segunda,Establecimientos de Larga Estadia de Adultos Mayores (ELEAM),
 Personal de salud,Primera,Establecimientos de Larga Estadia de Adultos Mayores (ELEAM),
 Personal de salud,Segunda,Establecimientos de Larga Estadia de Adultos Mayores (ELEAM),
 Personas Servicios esenciales del estado,Primera,Establecimientos de Larga Estadia de Adultos Mayores (ELEAM),
 Personas Servicios esenciales del estado,Segunda,Establecimientos de Larga Estadia de Adultos Mayores (ELEAM),
 Personas Servicios infraestructura crítica,Primera,Establecimientos de Larga Estadia de Adultos Mayores (ELEAM),
 Personas Servicios infraestructura crítica,Segunda,Establecimientos de Larga Estadia de Adultos Mayores (ELEAM),
-Personas en centros cerrados,Primera,Establecimientos de Larga Estadia de Adultos Mayores (ELEAM),28205.0
-Personas en centros cerrados,Segunda,Establecimientos de Larga Estadia de Adultos Mayores (ELEAM),24230.0
+Personas en centros cerrados,Primera,Establecimientos de Larga Estadia de Adultos Mayores (ELEAM),29468.0
+Personas en centros cerrados,Segunda,Establecimientos de Larga Estadia de Adultos Mayores (ELEAM),28493.0
 Población Sana,Primera,Establecimientos de Larga Estadia de Adultos Mayores (ELEAM),
 Población Sana,Segunda,Establecimientos de Larga Estadia de Adultos Mayores (ELEAM),
 Población vulnerable,Primera,Establecimientos de Larga Estadia de Adultos Mayores (ELEAM),
 Población vulnerable,Segunda,Establecimientos de Larga Estadia de Adultos Mayores (ELEAM),
-Funcionarios Públicos,Primera,Instituciones de Salud Mental,
-Funcionarios Públicos,Segunda,Instituciones de Salud Mental,
 Personal de salud,Primera,Instituciones de Salud Mental,
 Personal de salud,Segunda,Instituciones de Salud Mental,
 Personas Servicios esenciales del estado,Primera,Instituciones de Salud Mental,
 Personas Servicios esenciales del estado,Segunda,Instituciones de Salud Mental,
 Personas Servicios infraestructura crítica,Primera,Instituciones de Salud Mental,
 Personas Servicios infraestructura crítica,Segunda,Instituciones de Salud Mental,
-Personas en centros cerrados,Primera,Instituciones de Salud Mental,4541.0
-Personas en centros cerrados,Segunda,Instituciones de Salud Mental,2723.0
+Personas en centros cerrados,Primera,Instituciones de Salud Mental,5572.0
+Personas en centros cerrados,Segunda,Instituciones de Salud Mental,5140.0
 Población Sana,Primera,Instituciones de Salud Mental,
 Población Sana,Segunda,Instituciones de Salud Mental,
 Población vulnerable,Primera,Instituciones de Salud Mental,
 Población vulnerable,Segunda,Instituciones de Salud Mental,
-Funcionarios Públicos,Primera,Población privada de libertad,
-Funcionarios Públicos,Segunda,Población privada de libertad,
 Personal de salud,Primera,Población privada de libertad,
 Personal de salud,Segunda,Población privada de libertad,
 Personas Servicios esenciales del estado,Primera,Población privada de libertad,
 Personas Servicios esenciales del estado,Segunda,Población privada de libertad,
 Personas Servicios infraestructura crítica,Primera,Población privada de libertad,
 Personas Servicios infraestructura crítica,Segunda,Población privada de libertad,
-Personas en centros cerrados,Primera,Población privada de libertad,9546.0
-Personas en centros cerrados,Segunda,Población privada de libertad,2522.0
+Personas en centros cerrados,Primera,Población privada de libertad,40305.0
+Personas en centros cerrados,Segunda,Población privada de libertad,27565.0
 Población Sana,Primera,Población privada de libertad,
 Población Sana,Segunda,Población privada de libertad,
 Población vulnerable,Primera,Población privada de libertad,
 Población vulnerable,Segunda,Población privada de libertad,
-Funcionarios Públicos,Primera,Servicio Nacional de Menores (SENAME),
-Funcionarios Públicos,Segunda,Servicio Nacional de Menores (SENAME),
 Personal de salud,Primera,Servicio Nacional de Menores (SENAME),
 Personal de salud,Segunda,Servicio Nacional de Menores (SENAME),
 Personas Servicios esenciales del estado,Primera,Servicio Nacional de Menores (SENAME),
 Personas Servicios esenciales del estado,Segunda,Servicio Nacional de Menores (SENAME),
 Personas Servicios infraestructura crítica,Primera,Servicio Nacional de Menores (SENAME),
 Personas Servicios infraestructura crítica,Segunda,Servicio Nacional de Menores (SENAME),
-Personas en centros cerrados,Primera,Servicio Nacional de Menores (SENAME),11091.0
-Personas en centros cerrados,Segunda,Servicio Nacional de Menores (SENAME),8420.0
+Personas en centros cerrados,Primera,Servicio Nacional de Menores (SENAME),12386.0
+Personas en centros cerrados,Segunda,Servicio Nacional de Menores (SENAME),11873.0
 Población Sana,Primera,Servicio Nacional de Menores (SENAME),
 Población Sana,Segunda,Servicio Nacional de Menores (SENAME),
 Población vulnerable,Primera,Servicio Nacional de Menores (SENAME),
 Población vulnerable,Segunda,Servicio Nacional de Menores (SENAME),
-Funcionarios Públicos,Primera,Población entre 18 a 39 años.,
-Funcionarios Públicos,Segunda,Población entre 18 a 39 años.,
-Personal de salud,Primera,Población entre 18 a 39 años.,
-Personal de salud,Segunda,Población entre 18 a 39 años.,
-Personas Servicios esenciales del estado,Primera,Población entre 18 a 39 años.,
-Personas Servicios esenciales del estado,Segunda,Población entre 18 a 39 años.,
-Personas Servicios infraestructura crítica,Primera,Población entre 18 a 39 años.,
-Personas Servicios infraestructura crítica,Segunda,Población entre 18 a 39 años.,
-Personas en centros cerrados,Primera,Población entre 18 a 39 años.,
-Personas en centros cerrados,Segunda,Población entre 18 a 39 años.,
-Población Sana,Primera,Población entre 18 a 39 años.,64408.0
-Población Sana,Segunda,Población entre 18 a 39 años.,14895.0
-Población vulnerable,Primera,Población entre 18 a 39 años.,
-Población vulnerable,Segunda,Población entre 18 a 39 años.,
-Funcionarios Públicos,Primera,Población entre 40 a 49 años.,
-Funcionarios Públicos,Segunda,Población entre 40 a 49 años.,
-Personal de salud,Primera,Población entre 40 a 49 años.,
-Personal de salud,Segunda,Población entre 40 a 49 años.,
-Personas Servicios esenciales del estado,Primera,Población entre 40 a 49 años.,
-Personas Servicios esenciales del estado,Segunda,Población entre 40 a 49 años.,
-Personas Servicios infraestructura crítica,Primera,Población entre 40 a 49 años.,
-Personas Servicios infraestructura crítica,Segunda,Población entre 40 a 49 años.,
-Personas en centros cerrados,Primera,Población entre 40 a 49 años.,
-Personas en centros cerrados,Segunda,Población entre 40 a 49 años.,
-Población Sana,Primera,Población entre 40 a 49 años.,52871.0
-Población Sana,Segunda,Población entre 40 a 49 años.,21972.0
-Población vulnerable,Primera,Población entre 40 a 49 años.,
-Población vulnerable,Segunda,Población entre 40 a 49 años.,
-Funcionarios Públicos,Primera,Población entre 50 a 59 años.,
-Funcionarios Públicos,Segunda,Población entre 50 a 59 años.,
-Personal de salud,Primera,Población entre 50 a 59 años.,
-Personal de salud,Segunda,Población entre 50 a 59 años.,
-Personas Servicios esenciales del estado,Primera,Población entre 50 a 59 años.,
-Personas Servicios esenciales del estado,Segunda,Población entre 50 a 59 años.,
-Personas Servicios infraestructura crítica,Primera,Población entre 50 a 59 años.,
-Personas Servicios infraestructura crítica,Segunda,Población entre 50 a 59 años.,
-Personas en centros cerrados,Primera,Población entre 50 a 59 años.,
-Personas en centros cerrados,Segunda,Población entre 50 a 59 años.,
-Población Sana,Primera,Población entre 50 a 59 años.,100088.0
-Población Sana,Segunda,Población entre 50 a 59 años.,33162.0
-Población vulnerable,Primera,Población entre 50 a 59 años.,
-Población vulnerable,Segunda,Población entre 50 a 59 años.,
-Funcionarios Públicos,Primera,Capullo de inmunocomprometido pediátrico,
-Funcionarios Públicos,Segunda,Capullo de inmunocomprometido pediátrico,
-Personal de salud,Primera,Capullo de inmunocomprometido pediátrico,
-Personal de salud,Segunda,Capullo de inmunocomprometido pediátrico,
-Personas Servicios esenciales del estado,Primera,Capullo de inmunocomprometido pediátrico,
-Personas Servicios esenciales del estado,Segunda,Capullo de inmunocomprometido pediátrico,
-Personas Servicios infraestructura crítica,Primera,Capullo de inmunocomprometido pediátrico,
-Personas Servicios infraestructura crítica,Segunda,Capullo de inmunocomprometido pediátrico,
-Personas en centros cerrados,Primera,Capullo de inmunocomprometido pediátrico,
-Personas en centros cerrados,Segunda,Capullo de inmunocomprometido pediátrico,
-Población Sana,Primera,Capullo de inmunocomprometido pediátrico,
-Población Sana,Segunda,Capullo de inmunocomprometido pediátrico,
-Población vulnerable,Primera,Capullo de inmunocomprometido pediátrico,3724.0
-Población vulnerable,Segunda,Capullo de inmunocomprometido pediátrico,4.0
-Funcionarios Públicos,Primera,Enfermos crónicos desde los 16 a 59 años,
-Funcionarios Públicos,Segunda,Enfermos crónicos desde los 16 a 59 años,
+Personal de salud,Primera,Población entre 18 a 39 años,
+Personal de salud,Segunda,Población entre 18 a 39 años,
+Personas Servicios esenciales del estado,Primera,Población entre 18 a 39 años,
+Personas Servicios esenciales del estado,Segunda,Población entre 18 a 39 años,
+Personas Servicios infraestructura crítica,Primera,Población entre 18 a 39 años,
+Personas Servicios infraestructura crítica,Segunda,Población entre 18 a 39 años,
+Personas en centros cerrados,Primera,Población entre 18 a 39 años,
+Personas en centros cerrados,Segunda,Población entre 18 a 39 años,
+Población Sana,Primera,Población entre 18 a 39 años,1942317.0
+Población Sana,Segunda,Población entre 18 a 39 años,157621.0
+Población vulnerable,Primera,Población entre 18 a 39 años,
+Población vulnerable,Segunda,Población entre 18 a 39 años,
+Personal de salud,Primera,Población entre 40 a 49 años,
+Personal de salud,Segunda,Población entre 40 a 49 años,
+Personas Servicios esenciales del estado,Primera,Población entre 40 a 49 años,
+Personas Servicios esenciales del estado,Segunda,Población entre 40 a 49 años,
+Personas Servicios infraestructura crítica,Primera,Población entre 40 a 49 años,
+Personas Servicios infraestructura crítica,Segunda,Población entre 40 a 49 años,
+Personas en centros cerrados,Primera,Población entre 40 a 49 años,
+Personas en centros cerrados,Segunda,Población entre 40 a 49 años,
+Población Sana,Primera,Población entre 40 a 49 años,1106813.0
+Población Sana,Segunda,Población entre 40 a 49 años,637529.0
+Población vulnerable,Primera,Población entre 40 a 49 años,
+Población vulnerable,Segunda,Población entre 40 a 49 años,
+Personal de salud,Primera,Población entre 50 a 59 años,
+Personal de salud,Segunda,Población entre 50 a 59 años,
+Personas Servicios esenciales del estado,Primera,Población entre 50 a 59 años,
+Personas Servicios esenciales del estado,Segunda,Población entre 50 a 59 años,
+Personas Servicios infraestructura crítica,Primera,Población entre 50 a 59 años,
+Personas Servicios infraestructura crítica,Segunda,Población entre 50 a 59 años,
+Personas en centros cerrados,Primera,Población entre 50 a 59 años,
+Personas en centros cerrados,Segunda,Población entre 50 a 59 años,
+Población Sana,Primera,Población entre 50 a 59 años,1044133.0
+Población Sana,Segunda,Población entre 50 a 59 años,878264.0
+Población vulnerable,Primera,Población entre 50 a 59 años,
+Población vulnerable,Segunda,Población entre 50 a 59 años,
+Personal de salud,Primera,Embarazadas,
+Personal de salud,Segunda,Embarazadas,
+Personas Servicios esenciales del estado,Primera,Embarazadas,
+Personas Servicios esenciales del estado,Segunda,Embarazadas,
+Personas Servicios infraestructura crítica,Primera,Embarazadas,
+Personas Servicios infraestructura crítica,Segunda,Embarazadas,
+Personas en centros cerrados,Primera,Embarazadas,
+Personas en centros cerrados,Segunda,Embarazadas,
+Población Sana,Primera,Embarazadas,
+Población Sana,Segunda,Embarazadas,
+Población vulnerable,Primera,Embarazadas,16303.0
+Población vulnerable,Segunda,Embarazadas,4144.0
 Personal de salud,Primera,Enfermos crónicos desde los 16 a 59 años,
 Personal de salud,Segunda,Enfermos crónicos desde los 16 a 59 años,
 Personas Servicios esenciales del estado,Primera,Enfermos crónicos desde los 16 a 59 años,
@@ -445,10 +357,8 @@ Personas en centros cerrados,Primera,Enfermos crónicos desde los 16 a 59 años,
 Personas en centros cerrados,Segunda,Enfermos crónicos desde los 16 a 59 años,
 Población Sana,Primera,Enfermos crónicos desde los 16 a 59 años,
 Población Sana,Segunda,Enfermos crónicos desde los 16 a 59 años,
-Población vulnerable,Primera,Enfermos crónicos desde los 16 a 59 años,213380.0
-Población vulnerable,Segunda,Enfermos crónicos desde los 16 a 59 años,13299.0
-Funcionarios Públicos,Primera,Enfermos crónicos desde los 18 a 59 años,
-Funcionarios Públicos,Segunda,Enfermos crónicos desde los 18 a 59 años,
+Población vulnerable,Primera,Enfermos crónicos desde los 16 a 59 años,356214.0
+Población vulnerable,Segunda,Enfermos crónicos desde los 16 a 59 años,326220.0
 Personal de salud,Primera,Enfermos crónicos desde los 18 a 59 años,
 Personal de salud,Segunda,Enfermos crónicos desde los 18 a 59 años,
 Personas Servicios esenciales del estado,Primera,Enfermos crónicos desde los 18 a 59 años,
@@ -459,10 +369,32 @@ Personas en centros cerrados,Primera,Enfermos crónicos desde los 18 a 59 años,
 Personas en centros cerrados,Segunda,Enfermos crónicos desde los 18 a 59 años,
 Población Sana,Primera,Enfermos crónicos desde los 18 a 59 años,
 Población Sana,Segunda,Enfermos crónicos desde los 18 a 59 años,
-Población vulnerable,Primera,Enfermos crónicos desde los 18 a 59 años,905446.0
-Población vulnerable,Segunda,Enfermos crónicos desde los 18 a 59 años,19712.0
-Funcionarios Públicos,Primera,Personas mayores de 60 años,
-Funcionarios Públicos,Segunda,Personas mayores de 60 años,
+Población vulnerable,Primera,Enfermos crónicos desde los 18 a 59 años,1204649.0
+Población vulnerable,Segunda,Enfermos crónicos desde los 18 a 59 años,1137634.0
+Personal de salud,Primera,Estrategias Capullo para niños(as) y adolescentes,
+Personal de salud,Segunda,Estrategias Capullo para niños(as) y adolescentes,
+Personas Servicios esenciales del estado,Primera,Estrategias Capullo para niños(as) y adolescentes,
+Personas Servicios esenciales del estado,Segunda,Estrategias Capullo para niños(as) y adolescentes,
+Personas Servicios infraestructura crítica,Primera,Estrategias Capullo para niños(as) y adolescentes,
+Personas Servicios infraestructura crítica,Segunda,Estrategias Capullo para niños(as) y adolescentes,
+Personas en centros cerrados,Primera,Estrategias Capullo para niños(as) y adolescentes,
+Personas en centros cerrados,Segunda,Estrategias Capullo para niños(as) y adolescentes,
+Población Sana,Primera,Estrategias Capullo para niños(as) y adolescentes,
+Población Sana,Segunda,Estrategias Capullo para niños(as) y adolescentes,
+Población vulnerable,Primera,Estrategias Capullo para niños(as) y adolescentes,15842.0
+Población vulnerable,Segunda,Estrategias Capullo para niños(as) y adolescentes,14122.0
+Personal de salud,Primera,Estrategias capullo para niños(as) y Adolescentes,
+Personal de salud,Segunda,Estrategias capullo para niños(as) y Adolescentes,
+Personas Servicios esenciales del estado,Primera,Estrategias capullo para niños(as) y Adolescentes,
+Personas Servicios esenciales del estado,Segunda,Estrategias capullo para niños(as) y Adolescentes,
+Personas Servicios infraestructura crítica,Primera,Estrategias capullo para niños(as) y Adolescentes,
+Personas Servicios infraestructura crítica,Segunda,Estrategias capullo para niños(as) y Adolescentes,
+Personas en centros cerrados,Primera,Estrategias capullo para niños(as) y Adolescentes,
+Personas en centros cerrados,Segunda,Estrategias capullo para niños(as) y Adolescentes,
+Población Sana,Primera,Estrategias capullo para niños(as) y Adolescentes,
+Población Sana,Segunda,Estrategias capullo para niños(as) y Adolescentes,
+Población vulnerable,Primera,Estrategias capullo para niños(as) y Adolescentes,0.0
+Población vulnerable,Segunda,Estrategias capullo para niños(as) y Adolescentes,0.0
 Personal de salud,Primera,Personas mayores de 60 años,
 Personal de salud,Segunda,Personas mayores de 60 años,
 Personas Servicios esenciales del estado,Primera,Personas mayores de 60 años,
@@ -473,5 +405,5 @@ Personas en centros cerrados,Primera,Personas mayores de 60 años,
 Personas en centros cerrados,Segunda,Personas mayores de 60 años,
 Población Sana,Primera,Personas mayores de 60 años,
 Población Sana,Segunda,Personas mayores de 60 años,
-Población vulnerable,Primera,Personas mayores de 60 años,2742508.0
-Población vulnerable,Segunda,Personas mayores de 60 años,1890624.0
+Población vulnerable,Primera,Personas mayores de 60 años,2974895.0
+Población vulnerable,Segunda,Personas mayores de 60 años,2861472.0
